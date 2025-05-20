@@ -1,0 +1,18 @@
+%0 Journal Article
+%F Lau2025
+%A Lau, Gee-Choon
+%T Complete characterization of graphs with local total antimagic chromatic number 3
+%! Complete characterization of graphs with local total antimagic chromatic number 3
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2025
+%V 45
+%N 2
+%P 199-225
+%R https://doi.org/10.7494/OpMath.2025.45.2.199
+%U https://doi.org/10.7494/OpMath.2025.45.2.199
+%X A total labeling of a graph \(G = (V, E)\) is said to be local total antimagic if it is a bijection \(f: V\cup E \to\{1,\ldots,|V|+|E|\}\) such that adjacent vertices, adjacent edges, and pairs of an incident vertex and edge have distinct induced weights where the induced weight of a vertex \(v\) is \(w_f(v) = \sum f(e)\) with \(e\) ranging over all the edges incident to \(v\), and the induced weight of an edge \(uv\) is \(w_f(uv) = f(u) + f(v)\). The local total antimagic chromatic number of \(G\), denoted by \(\chi_{lt}(G)\), is the minimum number of distinct induced vertex and edge weights over all local total antimagic labelings of \(G\). In this paper, we first obtain general lower and upper bounds for \(\chi_{lt}(G)\) and sufficient conditions to construct a graph \(H\) with \(k\) pendant edges and \(\chi_{lt}(H) \in\{\Delta(H)+1, k+1\}\). We then completely characterize graphs \(G\) with \(\chi_{lt}(G)=3\). Many families of (disconnected) graphs \(H\) with \(k\) pendant edges and \(\chi_{lt}(H) \in\{\Delta(H)+1, k+1\}\) are also obtained.
+%K local total antimagic
+local total antimagic chromatic number
+%@ 1232-9274
+

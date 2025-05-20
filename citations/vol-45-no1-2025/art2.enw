@@ -1,0 +1,21 @@
+%0 Journal Article
+%F Baculíková2025
+%A Baculíková, Blanka
+%T Monotonic properties of Kneser solutions of second order linear differential equations with delayed argument
+%! Monotonic properties of Kneser solutions of second order linear differential equations with delayed argument
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2025
+%V 45
+%N 1
+%P 27-38
+%R https://doi.org/10.7494/OpMath.2025.45.1.27
+%U https://doi.org/10.7494/OpMath.2025.45.1.27
+%X In this paper new monotonic properties of nonoscillatory solutions for second order linear functional differential equations with delayed argument \[y{''}(t)=p(t)y(\tau(t))\] have been established. New properties are used to introduce criteria for elimination of bounded nonoscillatory solutions for studied equations.
+%K second order
+differential equations
+delayed argument
+monotonic properties
+oscillation
+%@ 1232-9274
+

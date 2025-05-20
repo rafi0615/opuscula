@@ -1,0 +1,26 @@
+TY  - JOUR
+ID  - Bujtás2025
+LB  - Bujtás2025
+AU  - Bujtás, Csilla
+AU  - Klavžar, Sandi
+AU  - Tian, Jing
+TI  - Total mutual-visibility in Hamming graphs
+ST  - Total mutual-visibility in Hamming graphs
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 1
+SP  - 63
+EP  - 78
+DO  - https://doi.org/10.7494/OpMath.2025.45.1.63
+UR  - https://doi.org/10.7494/OpMath.2025.45.1.63
+AB  - If \(G\) is a graph and \(X \subseteq V(G)\), then \(X\) is a total mutual-visibility set  if every pair of vertices \(x\) and \(y\) of \(G\) admits the shortest \(x,y\)-path \(P\) with  \(V(P) \cap X \subseteq \{x,y\}\). The cardinality of the largest total mutual-visibility set of \(G\) is the total mutual-visibility number \(\mu_{\rm t}(G)\) of \(G\). In this paper the total mutual-visibility number is studied on Hamming graphs, that is, Cartesian products of complete graphs. Different equivalent formulations for the problem are derived. The values \(\mu_{\rm t}(K_{n_1}\square K_{n_2}\square K_{n_3})\) are determined. It is proved that \(\mu_{\rm t}(K_{n_1} \square \cdots \square K_{n_r}) = O(N^{r-2})\), where \(N = n_1+\cdots + n_r\), and that \(\mu_{\rm t}(K_s^{\square r}) = \Theta(s^{r-2})\) for every \(r \geq 3\), where \(K_s^{\square r}\) denotes the Cartesian product of \(r\) copies of \(K_s\). The main theorems are also reformulated as Turán-type results on hypergraphs.
+KW  - mutual-visibility set
+KW  - total mutual-visibility set
+KW  - Hamming graph
+KW  - Turán-type problem
+SN  - 1232-9274
+ER  - 
+

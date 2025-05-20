@@ -1,0 +1,24 @@
+TY  - JOUR
+ID  - Wang2025
+LB  - Wang2025
+AU  - Wang, Yanyan
+AU  - Yang, Xiaojing
+TI  - Local properties of graphs that induce global cycle properties
+ST  - Local properties of graphs that induce global cycle properties
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 2
+SP  - 275
+EP  - 285
+DO  - https://doi.org/10.7494/OpMath.2025.45.2.275
+UR  - https://doi.org/10.7494/OpMath.2025.45.2.275
+AB  - A graph \(G\) is locally Hamiltonian if \(G[N(v)]\) is Hamiltonian for every vertex \(v\in V(G)\). In this note, we prove that every locally Hamiltonian graph with maximum degree at least \(|V(G)| - 7\) is weakly pancyclic. Moreover, we show that any connected graph \(G\) with \(\Delta(G)\leq 7\) and \(\delta(G[N(v)])\geq 3\) for every \(v\in V (G)\), is fully cycle extendable. These findings improve some known results by Tang and Vumar.
+KW  - fully cycle extendability
+KW  - weakly pancyclicity
+KW  - locally connected
+SN  - 1232-9274
+ER  - 
+

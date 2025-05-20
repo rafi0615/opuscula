@@ -1,0 +1,25 @@
+TY  - JOUR
+ID  - Grzelec2025
+LB  - Grzelec2025
+AU  - Grzelec, Igor
+AU  - Madaras, Tomáš
+AU  - Onderko, Alfréd
+TI  - On uniqueness of packing of three copies of 2-factors
+ST  - On uniqueness of packing of three copies of 2-factors
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 1
+SP  - 79
+EP  - 101
+DO  - https://doi.org/10.7494/OpMath.2025.45.1.79
+UR  - https://doi.org/10.7494/OpMath.2025.45.1.79
+AB  - The packing of three copies of a graph \(G\) is the union of three edge-disjoint copies (with the same vertex set) of \(G\). In this paper, we completely solve the problem of the uniqueness of packing of three copies of 2-regular graphs. In particular, we show that \(C_3,C_4,C_5,C_6\) and \(2C_3\) have no packing of three copies, \(C_7,C_8,C_3 \cup C_4, C_4 \cup C_4, C_3 \cup C_5\) and \(3C_3\) have unique packing, and any other collection of cycles has at least two distinct packings.
+KW  - uniquely packable graph
+KW  - 2-factor
+KW  - 3-packing
+SN  - 1232-9274
+ER  - 
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Opuscula Mathematica - vol. 44, no. 3 (2024) on Opuscula Mathematica</title>
+    <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/</link>
+    <description>Recent content in Opuscula Mathematica - vol. 44, no. 3 (2024) on Opuscula Mathematica</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>vol. 45, no. 3 (2024)</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art6/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art6/</guid>
+      <description>&lt;h3 id=&#34;projektowanie-i-implementacja-prostej-strony-od-podstaw-w-postaci-dziennika-praktyk&#34;&gt;Projektowanie i implementacja prostej strony od podstaw w postaci dziennika praktyk&lt;/h3&gt;&#xA;&lt;p&gt;Rozpoczęcie pracy nad nową stroną bez gotowego motywu było kolejnym etapem projektu. Koncentracja na prostocie i funkcjonalności pozwoliła na szybszy postęp prac i skoncentrowanie się na istotnych elementach projektu. Wpadliśmy na pomysł zrobienia strony na wzór dziennika praktyk.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

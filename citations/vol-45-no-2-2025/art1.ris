@@ -1,0 +1,25 @@
+TY  - JOUR
+ID  - Deng2025
+LB  - Deng2025
+AU  - Deng, Shengbing
+AU  - Luo, Wenshan
+AU  - Ledesma, César E. Torres
+TI  - Combined effects for a class of fractional variational inequalities
+ST  - Combined effects for a class of fractional variational inequalities
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 2
+SP  - 119
+EP  - 143
+DO  - https://doi.org/10.7494/OpMath.2025.45.2.119
+UR  - https://doi.org/10.7494/OpMath.2025.45.2.119
+AB  - In this paper, we study the existence of a nonnegative weak solution to the following nonlocal variational inequality: \[\int_{\mathbb{R}^N}(-\Delta)^{\frac{s}{2}} u (-\Delta)^{{\frac{s}{2}}}(v-u)dx+\int_{\mathbb{R}^N}(1+\lambda M(x))u(v-u)dx \geq \int_{\mathbb{R}^N}f(u)(v-u)dx, \] for all \(v \in\mathbb{K}\), where \(s\in (0,1)\) and \(M\) is a continuous steep potential well on \(\mathbb{R}^N\). Using penalization techniques from del Pino and Felmer, as well as from Bensoussan and Lions, we establish the existence of nonnegative weak solutions. These solutions localize near the potential well \(\operatorname{Int}(M^{-1}(0))\).
+KW  - fractional variational inequality
+KW  - variational methods
+KW  - critical nonlinearity
+SN  - 1232-9274
+ER  - 
+

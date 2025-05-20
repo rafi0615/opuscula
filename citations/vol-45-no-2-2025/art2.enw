@@ -1,0 +1,24 @@
+%0 Journal Article
+%F Diblík2025
+%A Diblík, Josef
+%T Representation of solutions of linear discrete systems with constant coefficients and with delays
+%! Representation of solutions of linear discrete systems with constant coefficients and with delays
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2025
+%V 45
+%N 2
+%P 145-177
+%R https://doi.org/10.7494/OpMath.2025.45.2.145
+%U https://doi.org/10.7494/OpMath.2025.45.2.145
+%X The paper surveys the results achieved in representing solutions of linear non-homogeneous discrete systems with constant coefficients and with delays and their fractional variants by using special matrices called discrete delayed-type matrices. These are used to express solutions of initial problems in a closed and often simple form. Then, results are briefly discussed achieved by such representations of solutions in stability, controllability and other fields. In addition, a similar topic is dealt with concerning linear non-homogeneous differential equations with delays and their variants. Moreover, some comments are given to this parallel direction pointing some important moments in the developing this theory. An outline of future perspectives in this direction is discussed as well.
+%K discrete linear system
+constants coefficients
+delay
+discrete matrix functions
+representation of solutions
+commutative matrices
+non-commutative matrices
+controllability
+%@ 1232-9274
+

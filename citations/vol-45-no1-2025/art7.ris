@@ -1,0 +1,26 @@
+TY  - JOUR
+ID  - Kardoš2025
+LB  - Kardoš2025
+AU  - Kardoš, František
+AU  - Lužar, Borut
+AU  - Soták, Roman
+TI  - Note on robust coloring of planar graphs
+ST  - Note on robust coloring of planar graphs
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 1
+SP  - 103
+EP  - 111
+DO  - https://doi.org/10.7494/OpMath.2025.45.1.103
+UR  - https://doi.org/10.7494/OpMath.2025.45.1.103
+AB  - We consider the robust chromatic number \(\chi_1(G)\) of planar graphs \(G\) and show that there exists an infinite family of planar graphs \(G\) with \(\chi_1(G) = 3\), thus solving a recent problem of Bacsó et al. from [The robust chromatic number of graphs, Graphs Combin. 40 (2024), #89].
+KW  - robust coloring
+KW  - robust chromatic number
+KW  - Tutte graph
+KW  - planar graph
+SN  - 1232-9274
+ER  - 
+
