@@ -1365,4 +1365,7 @@ footer a:hover {
       border-right: none;
       border-left: none;
   }
+  #searchResults .doi-link a{
+    font-size: 0.7rem;
+  }
 }

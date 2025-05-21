@@ -2,16 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rafi0615.github.io/opuscula/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rafi0615.github.io/opuscula/special-issue/</loc>
-    <lastmod>2025-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://rafi0615.github.io/opuscula/archive/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rafi0615.github.io/opuscula/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art1/</loc>
+    <lastmod>2025-05-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rafi0615.github.io/opuscula/</loc>
     <lastmod>2025-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rafi0615.github.io/opuscula/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art2/</loc>
@@ -20,10 +17,22 @@
     <loc>https://rafi0615.github.io/opuscula/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art3/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://rafi0615.github.io/opuscula/special-issue/vol-44-no-3-2024/art1/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rafi0615.github.io/opuscula/special-issue/vol-44-no-3-2024/art2/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rafi0615.github.io/opuscula/special-issue/vol-44-no-3-2024/art3/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://rafi0615.github.io/opuscula/forthcoming-issue/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rafi0615.github.io/opuscula/forthcoming-issue/art1/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://rafi0615.github.io/opuscula/special-issue/</loc>
     <lastmod>2025-05-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://rafi0615.github.io/opuscula/forthcoming-issue/art2/</loc>
@@ -484,8 +493,6 @@
   </url><url>
     <loc>https://rafi0615.github.io/opuscula/archive/opuscula_mathematica-vol.23-2003/vol-23-no-1-2003/</loc>
     <lastmod>2003-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rafi0615.github.io/opuscula/archive/asd/</loc>
   </url><url>
     <loc>https://rafi0615.github.io/opuscula/abstracting/</loc>
   </url><url>
