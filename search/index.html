@@ -183,17 +183,15 @@ function renderResults(results, query) {
   let html = '<ul class="article-list">';
   results.forEach(a => {
     
-    let base = window.location.origin + '\/';
+    let rel = '\/';
     let url = a.url;
-    
-    if (!url.startsWith('\/')) {
+    if (!url.startsWith(rel)) {
       if (url.startsWith('/')) {
-        url = '\/'.replace(/\/$/, '') + url;
+        url = rel.replace(/\/$/, '') + url;
       } else {
-        url = '\/'.replace(/\/$/, '') + '/' + url;
+        url = rel.replace(/\/$/, '') + '/' + url;
       }
     }
-    url = window.location.origin + url; 
     html += `
       <li>
         <h2><a href="${url}">${a.title}</a></h2>
