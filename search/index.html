@@ -183,18 +183,13 @@ function renderResults(results, query) {
   let html = '<ul class="article-list">';
   results.forEach(a => {
     
-    let rel = '\/';
-    let url = a.url;
-    if (!url.startsWith(rel)) {
-      if (url.startsWith('/')) {
-        url = rel.replace(/\/$/, '') + url;
-      } else {
-        url = rel.replace(/\/$/, '') + '/' + url;
-      }
-    }
+    let fullUrl = 'https:\/\/rafi0615.github.io\/' + (a.url.startsWith('/') ? a.url.slice(1) : a.url);
+    
+    let pdfUrl = a.pdf ? ('https:\/\/rafi0615.github.io\/' + (a.pdf.startsWith('/') ? a.pdf.slice(1) : a.pdf)) : null;
+    
     html += `
       <li>
-        <h2><a href="${url}">${a.title}</a></h2>
+        <h2><a href="${fullUrl}">${a.title}</a></h2>
         <div class="article-content">
           <div class="article-metaleft">
             <strong>${Array.isArray(a.authors) ? a.authors.join(', ') : a.authors}</strong><br>
@@ -203,8 +198,8 @@ function renderResults(results, query) {
             <div class="doi-link">${a.descriptionlink ? a.descriptionlink : ''}</div>
           </div>
           <div class="article-metaright">
-            ${a.pdf ? `<a href="${a.pdf}" target="_blank">Full text (PDF)</a>` : ''}
-            <a href="${url}">Abstract (HTML)</a>
+            ${pdfUrl ? `<a href="${pdfUrl}" target="_blank">Full text (PDF)</a>` : ''}
+            <a href="${fullUrl}">Abstract (HTML)</a>
           </div>
         </div>
       </li>
