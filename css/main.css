@@ -423,7 +423,6 @@ mjx-container:not(.MathJax_SVG_Display):not([display="true"]) > svg {
 }
 
 footer {
-  z-index: 2;
   position: relative;
   background-color: #f8f9fa;
   bottom: 0;
