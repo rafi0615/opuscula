@@ -185,14 +185,15 @@ function renderResults(results, query) {
     
     let base = window.location.origin + '\/';
     let url = a.url;
-    if (!url.startsWith(base)) {
-      
+    
+    if (!url.startsWith('\/')) {
       if (url.startsWith('/')) {
-        url = base.replace(/\/$/, '') + url;
+        url = '\/'.replace(/\/$/, '') + url;
       } else {
-        url = base.replace(/\/$/, '') + '/' + url;
+        url = '\/'.replace(/\/$/, '') + '/' + url;
       }
     }
+    url = window.location.origin + url; 
     html += `
       <li>
         <h2><a href="${url}">${a.title}</a></h2>
