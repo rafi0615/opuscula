@@ -9,13 +9,6 @@
     <lastBuildDate>Mon, 10 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Augmenting graphs to partition their vertices into a total dominating set and an independent dominating set</title>
-      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art3/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art3/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Combined effects for a class of fractional variational inequalities</title>
       <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art1/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
@@ -23,10 +16,31 @@
       <description></description>
     </item>
     <item>
+      <title>Representation of solutions of linear discrete systems with constant coefficients and with delays</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art2/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Augmenting graphs to partition their vertices into a total dominating set and an independent dominating set</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art3/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art3/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Complete characterization of graphs with local total antimagic chromatic number 3</title>
       <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art4/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Spectral analysis of infinite Marchenko-Slavin matrices</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art5/</link>
+      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art5/</guid>
       <description></description>
     </item>
     <item>
@@ -41,20 +55,6 @@
       <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art7/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art7/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Representation of solutions of linear discrete systems with constant coefficients and with delays</title>
-      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art2/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art2/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Spectral analysis of infinite Marchenko-Slavin matrices</title>
-      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art5/</link>
-      <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-2-2025/art5/</guid>
       <description></description>
     </item>
   </channel>

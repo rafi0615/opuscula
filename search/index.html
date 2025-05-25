@@ -182,13 +182,9 @@ function renderResults(results, query) {
   }
   let html = '<ul class="article-list">';
   results.forEach(a => {
-    
     const baseURL = 'https:\/\/rafi0615.github.io\/opuscula\/';
-    
     const articlePath = a.url.startsWith('/') ? a.url.slice(1) : a.url;
-    
     const fullUrl = baseURL + articlePath;
-    
     const pdfPath = a.pdf ? (a.pdf.startsWith('/') ? a.pdf.slice(1) : a.pdf) : null;
     const pdfUrl = pdfPath ? baseURL + pdfPath : null;
 

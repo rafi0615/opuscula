@@ -9,13 +9,6 @@
     <lastBuildDate>Fri, 20 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>(1,2)-PDS in graphs with the small number of vertices of large degrees</title>
-      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art4/</link>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art4/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Graphs with odd and even distances between non-cut vertices</title>
       <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art1/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
@@ -30,10 +23,24 @@
       <description></description>
     </item>
     <item>
-      <title>Note on robust coloring of planar graphs</title>
-      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art7/</link>
+      <title>The metric dimension of circulant graphs</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art3/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art7/</guid>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>(1,2)-PDS in graphs with the small number of vertices of large degrees</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art4/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Total mutual-visibility in Hamming graphs</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art5/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art5/</guid>
       <description></description>
     </item>
     <item>
@@ -44,17 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>The metric dimension of circulant graphs</title>
-      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art3/</link>
+      <title>Note on robust coloring of planar graphs</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art7/</link>
       <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Total mutual-visibility in Hamming graphs</title>
-      <link>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art5/</link>
-      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art5/</guid>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-45-no-1-2025/art7/</guid>
       <description></description>
     </item>
   </channel>
