@@ -185,8 +185,13 @@ function renderResults(results, query) {
     
     let base = window.location.origin + '\/';
     let url = a.url;
-    if(url.startsWith('/archive/')) {
-      url = base.replace(/\/$/, '') + url;
+    if (!url.startsWith(base)) {
+      
+      if (url.startsWith('/')) {
+        url = base.replace(/\/$/, '') + url;
+      } else {
+        url = base.replace(/\/$/, '') + '/' + url;
+      }
     }
     html += `
       <li>
