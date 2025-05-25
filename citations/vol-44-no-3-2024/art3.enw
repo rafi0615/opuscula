@@ -1,0 +1,24 @@
+%0 Journal Article
+%F Câmara2024
+%A Câmara, M. Cristina
+%A Kliś-Garlicka, Kamila
+%A Ptak, Marek
+%T Shifted model spaces and their orthogonal decompositions
+%! Shifted model spaces and their orthogonal decompositions
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2024
+%V 44
+%N 3
+%P 341-357
+%R https://doi.org/10.7494/OpMath.2024.44.3.341
+%U https://doi.org/10.7494/OpMath.2024.44.3.341
+%X We generalize certain well known orthogonal decompositions of model spaces and obtain similar decompositions for the wider class of shifted model spaces, allowing us to establish conditions for near invariance of the latter with respect to certain operators which include, as a particular case, the backward shift \(S^*\). In doing so, we illustrate the usefulness of obtaining appropriate decompositions and, in connection with this, we prove some results on model spaces which are of independent interest. We show moreover how the invariance properties of the kernel of an operator \(T\), with respect to another operator, follow from certain commutation relations between the two operators involved.
+%K model space
+Toeplitz operator
+Toeplitz kernel
+truncated Toeplitz operator
+nearly invariant
+shift invariant
+%@ 1232-9274
+

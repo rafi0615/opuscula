@@ -1,0 +1,20 @@
+%0 Journal Article
+%F Tarcsay2024
+%A Tarcsay, Zsigmond
+%A Sebestyén, Zoltán
+%T Reduction of positive self-adjoint extensions
+%! Reduction of positive self-adjoint extensions
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2024
+%V 44
+%N 3
+%P 425-438
+%R https://doi.org/10.7494/OpMath.2024.44.3.425
+%U https://doi.org/10.7494/OpMath.2024.44.3.425
+%X We revise Krein's extension theory of semi-bounded Hermitian operators by reducing  the problem to finding all positive and contractive extensions of the "resolvent operator" \((I+T)^{-1}\) of \(T\). Our treatment is somewhat simpler and more natural than Krein's original method which was based on the Krein transform \((I-T)(I+T)^{-1}\). Apart from being positive and symmetric, we do not impose any further constraints on the operator \(T\): neither its closedness nor the density of its domain is assumed. Moreover, our arguments remain valid in both real or complex Hilbert spaces.
+%K positive selfadjoint contractive extension
+nonnegative selfadjoint extension
+Friedrichs and Krein-von Neumann extension
+%@ 1232-9274
+

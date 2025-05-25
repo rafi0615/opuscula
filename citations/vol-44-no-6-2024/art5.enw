@@ -1,0 +1,19 @@
+%0 Journal Article
+%F Štoudková Růžičková2024
+%A Štoudková Růžičková, Viera
+%T Symmetric 2×2 matrix functions with order preserving property
+%! Symmetric 2×2 matrix functions with order preserving property
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2024
+%V 44
+%N 6
+%P 853-882
+%R https://doi.org/10.7494/OpMath.2024.44.6.853
+%U https://doi.org/10.7494/OpMath.2024.44.6.853
+%X It is known that the discrete matrix Riccati equation has the order preserving property under some assumptions. In this paper we formulate and prove the converse statement for the case when the dimensions of the matrices are \(2 \times 2\) and the order preserving property holds for all such symmetric matrices.
+%K Riccati matrix equation
+order preserving property
+symmetric matrix function
+%@ 1232-9274
+

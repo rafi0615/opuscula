@@ -1,0 +1,23 @@
+%0 Journal Article
+%F Papageorgiou2024
+%A Papageorgiou, Nikolaos S.
+%A Rădulescu, Vicenţiu D.
+%A Sun, Xueying
+%T Positive solutions for nonparametric anisotropic singular solutions
+%! Positive solutions for nonparametric anisotropic singular solutions
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2024
+%V 44
+%N 3
+%P 409-423
+%R https://doi.org/10.7494/OpMath.2024.44.3.409
+%U https://doi.org/10.7494/OpMath.2024.44.3.409
+%X We consider an elliptic equation driven by a nonlinear, nonhomogeneous differential operator with nonstandard growth. The reaction has the combined effects of a singular term and of a "superlinear" perturbation. There is no parameter in the problem. Using variational tools and truncation and comparison techniques, we show the existence of at least two positive smooth solutions.
+%K variable Lebesgue and Sobolev spaces
+anisotropic regularity
+anisotropic maximum principle
+truncations and comparisons
+Hardy inequality
+%@ 1232-9274
+

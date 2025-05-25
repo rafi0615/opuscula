@@ -1,0 +1,21 @@
+%0 Journal Article
+%F El Azhar2024
+%A El Azhar, Hamza
+%A Hanine, Abdelouahab
+%A Zerouali, El Hassan
+%T A note on the general moment problem
+%! A note on the general moment problem
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2024
+%V 44
+%N 3
+%P 359-372
+%R https://doi.org/10.7494/OpMath.2024.44.3.359
+%U https://doi.org/10.7494/OpMath.2024.44.3.359
+%X In this note we show that given an indeterminate Hamburger moment sequence, it is possible to perturb the first moment in such way that the obtained sequence remains an indeterminate Hamburger moment sequence. As a consequence we prove that every sequence of real numbers is a moment sequence for a signed discrete measure supported in \(\mathbb{R}_+\).
+%K general moment problem
+charge sequences
+atomic measure
+%@ 1232-9274
+

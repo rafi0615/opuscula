@@ -6,14 +6,63 @@
     <description>Recent content in Opuscula Mathematica - vol. 44, no. 3 (2024) on Opuscula Mathematica</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>vol. 45, no. 3 (2024)</title>
+      <title>Jan Stochel, a stellar mathematician</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art1/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Finitely additive functions in measure theory and applications</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art2/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shifted model spaces and their orthogonal decompositions</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art3/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A note on the general moment problem</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art4/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cesàro summability of Taylor series in higher order weighted Dirichlet-type spaces</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art5/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the Möbius invariant principal functions of Pincus</title>
       <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art6/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
       <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art6/</guid>
-      <description>&lt;h3 id=&#34;projektowanie-i-implementacja-prostej-strony-od-podstaw-w-postaci-dziennika-praktyk&#34;&gt;Projektowanie i implementacja prostej strony od podstaw w postaci dziennika praktyk&lt;/h3&gt;&#xA;&lt;p&gt;Rozpoczęcie pracy nad nową stroną bez gotowego motywu było kolejnym etapem projektu. Koncentracja na prostocie i funkcjonalności pozwoliła na szybszy postęp prac i skoncentrowanie się na istotnych elementach projektu. Wpadliśmy na pomysł zrobienia strony na wzór dziennika praktyk.&lt;/p&gt;</description>
+      <description></description>
+    </item>
+    <item>
+      <title>Positive solutions for nonparametric anisotropic singular solutions</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art7/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reduction of positive self-adjoint extensions</title>
+      <link>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art8/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://rafi0615.github.io/opuscula/volumes/vol-44-no-3-2024/art8/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

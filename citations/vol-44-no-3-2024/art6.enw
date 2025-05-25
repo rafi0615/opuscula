@@ -1,0 +1,22 @@
+%0 Journal Article
+%F Ghosh2024
+%A Ghosh, Sagar
+%A Misra, Gadadhar
+%T On the Möbius invariant principal functions of Pincus
+%! On the Möbius invariant principal functions of Pincus
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2024
+%V 44
+%N 3
+%P 391-407
+%R https://doi.org/10.7494/OpMath.2024.44.3.391
+%U https://doi.org/10.7494/OpMath.2024.44.3.391
+%X In this semi-expository short note, we prove that the only homogeneous pure hyponormal operator \(T\) with \(\operatorname{rank} (T^*T-TT^*) =1\), modulo unitary equivalence, is the unilateral shift.
+%K hyponormal operator
+multiplicity
+trace formula
+homogeneous operators
+principal function
+%@ 1232-9274
+

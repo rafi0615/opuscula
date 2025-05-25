@@ -1,0 +1,19 @@
+%0 Journal Article
+%F Suciu2024
+%A Suciu, Laurian
+%T On expansive three-isometries
+%! On expansive three-isometries
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2024
+%V 44
+%N 6
+%P 883-898
+%R https://doi.org/10.7494/OpMath.2024.44.6.883
+%U https://doi.org/10.7494/OpMath.2024.44.6.883
+%X The sub-Brownian 3-isometries in Hilbert spaces are the natural counterparts of the 2-isometries, because all of them have Brownian-type extensions in the sense of J. Agler and M. Stankus. We show that all powers \(T^n\) for \(n\geq 2\) of every expansive 3-isometry \(T\) are sub-Brownian, even if \(T\) does not have such a property. This fact induces some useful relations between the corresponding covariance operators of \(T\). We analyze two matrix representations of \(T\) in order to get some conditions under which \(T\) is sub-Brownian, or \(T\) admits the Wold-type decomposition in the sense of S. Shimorin. We show that the restriction of \(T\) to its range is sub-Brownian of McCullough's type, and that under some conditions on \(\mathcal{N}(T^*)\), \(T\) itself is sub-Brownian, and it admits the Wold-type decomposition.
+%K Wold decomposition
+3-isometry
+sub-Brownian 3-isometry
+%@ 1232-9274
+

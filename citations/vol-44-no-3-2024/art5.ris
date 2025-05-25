@@ -1,0 +1,26 @@
+TY  - JOUR
+ID  - Ghara2024
+LB  - Ghara2024
+AU  - Ghara, Soumitra
+AU  - Gupta, Rajeev
+AU  - Reza, Md. Ramiz
+TI  - Cesàro summability of Taylor series in higher order weighted Dirichlet-type spaces
+ST  - Cesàro summability of Taylor series in higher order weighted Dirichlet-type spaces
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2024
+VL  - 44
+IS  - 3
+SP  - 373
+EP  - 390
+DO  - https://doi.org/10.7494/OpMath.2024.44.3.373
+UR  - https://doi.org/10.7494/OpMath.2024.44.3.373
+AB  - For a positive integer \(m\) and a finite non-negative Borel measure \(\mu\) on the unit circle, we study the Hadamard multipliers of higher order weighted Dirichlet-type spaces \(\mathcal H_{\mu, m}\). We show that if \(\alpha\gt\frac{1}{2}\), then for any \(f\) in \(\mathcal H_{\mu, m}\) the sequence of generalized Cesàro sums \(\{\sigma_n^{\alpha}[f]\}\) converges to \(f\). We further show that if \(\alpha=\frac{1}{2}\) then for the Dirac delta measure supported at any point on  the unit circle, the previous statement breaks down for every positive integer \(m\).
+KW  - weighted Dirichlet-type integrals
+KW  - Cesàro mean
+KW  - summability
+KW  - Hadamard multiplication
+SN  - 1232-9274
+ER  - 
+

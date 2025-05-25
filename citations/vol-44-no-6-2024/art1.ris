@@ -1,0 +1,24 @@
+TY  - JOUR
+ID  - Bensmail2024
+LB  - Bensmail2024
+AU  - Bensmail, Julien
+TI  - Closure results for arbitrarily partitionable graphs
+ST  - Closure results for arbitrarily partitionable graphs
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2024
+VL  - 44
+IS  - 6
+SP  - 773
+EP  - 788
+DO  - https://doi.org/10.7494/OpMath.2024.44.6.773
+UR  - https://doi.org/10.7494/OpMath.2024.44.6.773
+AB  - A well-known result of Bondy and Chvátal establishes that a graph of order \(n\) is Hamiltonian if and only if its \(n\)-closure (obtained through repeatedly adding an edge joining any two non-adjacent vertices with degree sum at least \(n\)) also is. In this work, we investigate such closure results for arbitrarily partitionable graphs, a weakening of Hamiltonian graphs being those graphs that can be partitioned into arbitrarily many connected graphs of arbitrary orders. Among other results, we establish closure results for arbitrary partitions into connected graphs of order at most 3, for arbitrary partitions into connected graphs of order exactly any \(\lambda\), and for the property of being arbitrarily partitionable in full.
+KW  - connected partition
+KW  - arbitrarily partitionable graph
+KW  - closure
+KW  - traceability
+SN  - 1232-9274
+ER  - 
+

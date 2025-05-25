@@ -1,0 +1,26 @@
+TY  - JOUR
+ID  - Costa2024
+LB  - Costa2024
+AU  - Costa, Augusto César dos Reis
+AU  - da Silva, Ronaldo Lopes
+TI  - On a nonlocal p(x)-Laplacian Dirichlet problem involving several critical Sobolev-Hardy exponents
+ST  - On a nonlocal p(x)-Laplacian Dirichlet problem involving several critical Sobolev-Hardy exponents
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2024
+VL  - 44
+IS  - 6
+SP  - 789
+EP  - 814
+DO  - https://doi.org/10.7494/OpMath.2024.44.6.789
+UR  - https://doi.org/10.7494/OpMath.2024.44.6.789
+AB  - The aim of this work is to present a result of multiplicity of solutions, in generalized Sobolev spaces, for a non-local elliptic problem with \(p(x)\)-Laplace operator containing \(k\) distinct critical Sobolev-Hardy exponents combined with singularity points \[ \begin{cases} M(\psi(u)) (- \Delta_{p(x)} u + |u|^{p(x)-2} u) = \sum_{i=1}^{k} h_i(x) \dfrac{|u|^{p^*_{s_i}(x)-2} u}{|x|^{s_i(x)}} + f(x,u) &amp;\text{in }\Omega, \\ u=0 &amp;\text{on }\partial \Omega, \end{cases} \] where \(\Omega\subset \mathbb{R}^N\) is a bounded domain with \(0 \in \Omega\) and \(1 \lt p^- \leq p(x) \leq p^+ \lt N\). The real function \(M\) is bounded in \([0, +\infty)\) and the functions \(h_i\) \((i=1, \ldots, k)\) and \(f\) are functions whose properties will be given later. To obtain the result we use the Lions' concentration-compactness principle for critical Sobolev-Hardy exponent in the space \(W^{1,p(x)}_{0}(\Omega)\) due to Yu, Fu and Li, and the Fountain Theorem.
+KW  - generalized Lebesgue-Sobolev spaces
+KW  - \(p(x)\)-Laplacian nonlocal operator
+KW  - Sobolev-Hardy critical exponents
+KW  - concentration-compactness principle for critical Sobolev-Hardy exponent
+KW  - fountain theorem
+SN  - 1232-9274
+ER  - 
+

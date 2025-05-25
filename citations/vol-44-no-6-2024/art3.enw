@@ -1,0 +1,18 @@
+%0 Journal Article
+%F Czap2024
+%A Czap, Július
+%T Facial graceful coloring of plane graphs
+%! Facial graceful coloring of plane graphs
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2024
+%V 44
+%N 6
+%P 815-825
+%R https://doi.org/10.7494/OpMath.2024.44.6.815
+%U https://doi.org/10.7494/OpMath.2024.44.6.815
+%X Let \(G\) be a plane graph. Two edges of \(G\) are facially adjacent if they are consecutive on the boundary walk of a face of \(G\). A facial edge coloring of \(G\) is an edge coloring such that any two facially adjacent edges receive different colors. A facial graceful \(k\)-coloring of \(G\) is a proper vertex coloring \(c:V(G)\rightarrow\{1,2,\dots,k\}\) such that the induced edge coloring \(c^{\prime}:E(G)\rightarrow\{1,2,\dots,k-1\}\) defined by \(c^{\prime(uv)}=|c(u)-c(v)|\) is a facial edge coloring. The minimum integer \(k\) for which \(G\) has a facial graceful \(k\)-coloring is denoted by \(\chi_{fg}(G)\). In this paper we prove that \(\chi_{fg}(G)\leq 14\) for every plane graph \(G\) and \(\chi_{fg}(H)\leq 9\) for every outerplane graph \(H\). Moreover, we give exact bounds for cacti and trees.
+%K facial edge coloring
+plane graph
+%@ 1232-9274
+

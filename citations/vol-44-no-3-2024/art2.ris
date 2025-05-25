@@ -1,0 +1,30 @@
+TY  - JOUR
+ID  - Alpay2024
+LB  - Alpay2024
+AU  - Alpay, Daniel
+AU  - Jorgensen, Palle
+TI  - Finitely additive functions in measure theory and applications
+ST  - Finitely additive functions in measure theory and applications
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2024
+VL  - 44
+IS  - 3
+SP  - 323
+EP  - 339
+DO  - https://doi.org/10.7494/OpMath.2024.44.3.323
+UR  - https://doi.org/10.7494/OpMath.2024.44.3.323
+AB  - In this paper, we consider, and make precise, a certain extension of the Radon-Nikodym derivative operator, to functions which are additive, but not necessarily sigma-additive, on a subset of a given sigma-algebra. We give applications to probability theory; in particular, to the study of \(\mu\)-Brownian motion, to stochastic calculus via generalized Itô-integrals, and their adjoints (in the form of generalized stochastic derivatives), to systems of transition probability operators indexed by families of measures \(\mu\), and to adjoints of composition operators.
+KW  - Hilbert space
+KW  - reproducing kernels
+KW  - probability space
+KW  - Gaussian fields
+KW  - transforms
+KW  - covariance
+KW  - Itô integration
+KW  - Itô calculus
+KW  - generalized Brownian motion
+SN  - 1232-9274
+ER  - 
+

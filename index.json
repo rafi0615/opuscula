@@ -11,6 +11,28 @@
     "pdf": "/pdf/vol-45-no-1-2025/art1.pdf"
   },
   {
+    "title": "Closure results for arbitrarily partitionable graphs",
+    "authors": ["Julien Bensmail"],
+    "keywords": ["connected","partition,","arbitrarily","partitionable","graph,","closure,","traceability"],
+    "mathsubclass": "05C99, 68R10",
+    "abstract": "A well-known result of Bondy and Chvátal establishes that a graph of order \\(n\\) is Hamiltonian if and only if its \\(n\\)-closure (obtained through repeatedly adding an edge joining any two non-adjacent vertices with degree sum at least \\(n\\)) also is. In this work, we investigate such closure results for arbitrarily partitionable graphs, a weakening of Hamiltonian graphs being those graphs that can be partitioned into arbitrarily many connected graphs of arbitrary orders. Among other results, we establish closure results for arbitrary partitions into connected graphs of order at most 3, for arbitrary partitions into connected graphs of order exactly any \\(\\lambda\\), and for the property of being arbitrarily partitionable in full.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art1/",
+    "description": "Opuscula Math. 44, no. 6 (2024), 773-788",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.6.773\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.6.773\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-6-2024/art1.pdf"
+  },
+  {
+    "title": "Jan Stochel, a stellar mathematician",
+    "authors": ["Sameer Chavan","Raúl Curto","Zenon Jan Jabłoński","Il Bong Jung","Mihai Putinar"],
+    "keywords": ["unbounded","subnormal","operator,","moment","problem,","composition","operator,","Cauchy","dual"],
+    "mathsubclass": "47B20, 47B25, 30E05, 47B33",
+    "abstract": "The occasion for this survey article was the 70th birthday of Jan Stochel, professor at Jagiellonian University, former head of the Chair of Functional Analysis and a prominent member of the Kraków school of operator theory. In the course of his mathematical career, he has dealt, among other things, with various aspects of functional analysis, single and multivariable operator theory, the theory of moments, the theory of orthogonal polynomials, the theory of reproducing kernel Hilbert spaces, and mathematical aspects of quantum mechanics.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-3-2024/art1/",
+    "description": "Opuscula Math. 44, no. 3 (2024), 303-321",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.303\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.303\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-3-2024/art1.pdf"
+  },
+  {
     "title": "Monotonic properties of Kneser solutions of second order linear differential equations with delayed argument",
     "authors": ["Blanka Baculíková"],
     "keywords": ["second","order,","differential","equations,","delayed","argument,","monotonic","properties,","oscillation"],
@@ -20,6 +42,28 @@
     "description": "Opuscula Math. 45, no. 1 (2025), 27-38",
     "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.27\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.27\u003c/a\u003e",
     "pdf": "/pdf/vol-45-no-1-2025/art2.pdf"
+  },
+  {
+    "title": "On a nonlocal p(x)-Laplacian Dirichlet problem involving several critical Sobolev-Hardy exponents",
+    "authors": ["Augusto César dos Reis Costa","Ronaldo Lopes da Silva"],
+    "keywords": ["generalized","Lebesgue-Sobolev","spaces,","p(x)-Laplacian","nonlocal","operator,","Sobolev-Hardy","critical","exponents,","concentration-compactness","principle","for","critical","Sobolev-Hardy","exponent,","fountain","theorem"],
+    "mathsubclass": "35J60, 58E05",
+    "abstract": "The aim of this work is to present a result of multiplicity of solutions, in generalized Sobolev spaces, for a non-local elliptic problem with \\(p(x)\\)-Laplace operator containing \\(k\\) distinct critical Sobolev-Hardy exponents combined with singularity points\r\n\r\n\\[\\begin{cases}\r\nM(\\psi(u))(-\\Delta_{p(x)} u + |u|^{p(x)-2}u) = \\sum_{i=1}^k h_i(x) \\frac{|u|^{p_i(x)-2}u}{|x|^{s(x)}} + f(x, u) \u0026 \\text{in}\\ \\Omega,\\\\\r\nu = 0 \u0026 \\text{on}\\ \\partial\\Omega,\r\n\\end{cases}\\]\r\n\r\nwhere \\(\\Omega \\subset \\mathbb{R}^N\\) is a bounded domain with \\(0 \\in \\Omega\\) and \\(1 \u003c p_- \\leq p(x) \\leq p^+ \u003c N\\). The real function \\(M\\) is bounded in \\([0,+\\infty)\\) and the functions \\(h_i\\) \\((i=1,\\ldots,k)\\) and \\(f\\) are functions whose properties will be given later. To obtain the result we use the Lions' concentration-compactness principle for critical Sobolev-Hardy exponent in the space \\(W_0^{1,p(x)}(\\Omega)\\) due to Yu, Fu and Li, and the Fountain Theorem.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art2/",
+    "description": "Opuscula Math. 44, no. 6 (2024), 789-814",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.6.789\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.6.789\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-6-2024/art2.pdf"
+  },
+  {
+    "title": "Finitely additive functions in measure theory and applications",
+    "authors": ["Daniel Alpay","Palle Jorgensen"],
+    "keywords": ["Hilbert","space,","reproducing","kernels,","probability","space,","Gaussian","fields,","transforms,","covariance,","Itô","integration,","Itô","calculus,","generalized","Brownian","motion"],
+    "mathsubclass": "47B32, 60G20, 60G15, 60H05, 60J60, 46E22",
+    "abstract": "In this paper, we consider, and make precise, a certain extension of the Radon-Nikodym derivative operator, to functions which are additive, but not necessarily sigma-additive, on a subset of a given sigma-algebra. We give applications to probability theory; in particular, to the study of $\\mu$-Brownian motion, to stochastic calculus via generalized Itô-integrals, and their adjoints (in the form of generalized stochastic derivatives), to systems of transition probability operators indexed by families of measures $\\mu$, and to adjoints of composition operators.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-3-2024/art2/",
+    "description": "Opuscula Math. 44, no. 3 (2024), 323-339",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.323\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.323\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-3-2024/art2.pdf"
   },
   {
     "title": "The metric dimension of circulant graphs",
@@ -33,6 +77,28 @@
     "pdf": "/pdf/vol-45-no-1-2025/art3.pdf"
   },
   {
+    "title": "Facial graceful coloring of plane graphs",
+    "authors": ["Július Czap"],
+    "keywords": ["facial","edge","coloring,","plane","graph"],
+    "mathsubclass": "05C10, 05C15",
+    "abstract": "Let \\(G\\) be a plane graph. Two edges of \\(G\\) are facially adjacent if they are consecutive on the boundary walk of a face of \\(G\\). A facial edge coloring of \\(G\\) is an edge coloring such that any two facially adjacent edges receive different colors. A facial graceful \\(k\\)-coloring of \\(G\\) is a proper vertex coloring \\(c: V(G) \\to \\{1,2,\\ldots,k\\}\\) such that the induced edge coloring \\(c'(uv) = |c(u) - c(v)|\\) is a facial edge coloring. The minimum integer \\(k\\) for which \\(G\\) has a facial graceful \\(k\\)-coloring is denoted by \\(\\chi_{fg}(G)\\). In this paper we prove that \\(\\chi_{fg}(G) \\leq 14\\) for every plane graph \\(G\\) and \\(\\chi_{fg}(H) \\leq 9\\) for every outerplane graph \\(H\\). Moreover, we give exact bounds for cacti and trees.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art3/",
+    "description": "Opuscula Math. 44, no. 6 (2024), 815-825",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.6.815\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.6.815\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-6-2024/art3.pdf"
+  },
+  {
+    "title": "Shifted model spaces and their orthogonal decompositions",
+    "authors": ["M. Cristina Câmara","Kamila Kliś-Garlicka","Marek Ptak"],
+    "keywords": ["model","space,","Toeplitz","operator,","Toeplitz","kernel,","truncated","Toeplitz","operator,","nearly","invariant,","shift","invariant"],
+    "mathsubclass": "47B32, 47B35, 30H10",
+    "abstract": "We generalize certain well known orthogonal decompositions of model spaces and obtain similar decompositions for the wider class of shifted model spaces, allowing us to establish conditions for near invariance of the latter with respect to certain operators which include, as a particular case, the backward shift $S^*$. In doing so, we illustrate the usefulness of obtaining appropriate decompositions and, in connection with this, we prove some results on model spaces which are of independent interest. We show moreover how the invariance properties of the kernel of an operator $T$, with respect to another operator, follow from certain commutation relations between the two operators involved.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-3-2024/art3/",
+    "description": "Opuscula Math. 44, no. 3 (2024), 341-357",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.341\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.341\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-3-2024/art3.pdf"
+  },
+  {
     "title": "(1,2)-PDS in graphs with the small number of vertices of large degrees",
     "authors": ["Urszula Bednarz","Mateusz Pirga"],
     "keywords": ["domination,","secondary","domination,","neighborhoods,","maximum","degree"],
@@ -42,6 +108,28 @@
     "description": "Opuscula Math. 45, no. 1 (2025), 53-62",
     "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.53\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.53\u003c/a\u003e",
     "pdf": "/pdf/vol-45-no-1-2025/art4.pdf"
+  },
+  {
+    "title": "Positive solutions of nonpositone sublinear elliptic problems",
+    "authors": ["Tomas Godoy"],
+    "keywords": ["elliptic","sublinear","problems,","nonpositone","problems,","positive","solutions,","Leray-Schauder","degree"],
+    "mathsubclass": "35J25, 35A01, 35B09, 35J15",
+    "abstract": "Consider the problem \\(-\\Delta u = \\lambda f(\\cdot,u)\\) in \\(\\Omega\\), \\(u = 0\\) on \\(\\partial\\Omega\\), \\(u \u003e 0\\) in \\(\\Omega\\), where \\(\\Omega\\) is a bounded domain in \\(\\mathbb{R}^n\\) with \\(C^2\\) boundary when \\(n \\geq 2\\), \\(\\lambda \u003e 0\\), and where \\(f \\in C(\\overline{\\Omega} \\times [0,\\infty))\\) satisfies \\(\\lim_{s \\to \\infty} s^{-p}f(\\cdot,s) = \\gamma\\) for some \\(p \\in (0,1)\\) and some \\(\\gamma \\in C(\\overline{\\Omega})\\) such that \\(\\gamma \\not\\equiv 0\\) a.e. in \\(\\Omega\\) and, for some positive constants \\(c\\) and \\(c'\\), \\(\\gamma^- \\leq cd_{\\Omega}\\) for some \\(\\beta \\in [0,+\\infty)\\) and \\((-\\lambda)\\gamma \\geq c'd_{\\Omega}\\), where \\(d_{\\Omega}(x) := dist(x,\\partial\\Omega)\\) and \\(\\gamma^- := -\\min(0,\\gamma)\\). Under these assumptions we show that for \\(\\lambda\\) large enough, the above problem has a positive weak solution \\(u \\in C^1(\\overline{\\Omega})\\) such that, for some constant \\(c'' \u003e 0\\), \\(u \\geq c''d_{\\Omega}\\) in \\(\\Omega\\).",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art4/",
+    "description": "Opuscula Math. 44, no. 6 (2024), 827-851",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.6.827\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.6.827\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-6-2024/art4.pdf"
+  },
+  {
+    "title": "A note on the general moment problem",
+    "authors": ["Hamza El Azhar","Abdelouahab Hanine","El Hassan Zerouali"],
+    "keywords": ["general","moment","problem,","charge","sequences,","atomic","measure"],
+    "mathsubclass": "44A60",
+    "abstract": "In this note we show that given an indeterminate Hamburger moment sequence, it is possible to perturb the first moment in such way that the obtained sequence remains an indeterminate Hamburger moment sequence. As a consequence we prove that every sequence of real numbers is a moment sequence for a signed discrete measure supported in $\\mathbb{R}_+$.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-3-2024/art4/",
+    "description": "Opuscula Math. 44, no. 3 (2024), 359-372",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.359\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.359\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-3-2024/art4.pdf"
   },
   {
     "title": "Total mutual-visibility in Hamming graphs",
@@ -55,6 +143,28 @@
     "pdf": "/pdf/vol-45-no-1-2025/art5.pdf"
   },
   {
+    "title": "Symmetric 2×2 matrix functions with order preserving property",
+    "authors": ["Viera Štoudková Růžičková"],
+    "keywords": ["Riccati","matrix","equation,","order","preserving","property,","symmetric","matrix","function"],
+    "mathsubclass": "39A12, 39A22, 26B35",
+    "abstract": "It is known that the discrete matrix Riccati equation has the order preserving property under some assumptions. In this paper we formulate and prove the converse statement for the case when the dimensions of the matrices are 2 × 2 and the order preserving property holds for all such symmetric matrices.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art5/",
+    "description": "Opuscula Math. 44, no. 6 (2024), 853-882",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.6.853\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.6.853\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-6-2024/art5.pdf"
+  },
+  {
+    "title": "Cesàro summability of Taylor series in higher order weighted Dirichlet-type spaces",
+    "authors": ["Soumitra Ghara","Rajeev Gupta","Md. Ramiz Reza"],
+    "keywords": ["weighted","Dirichlet-type","integrals,","Cesàro","mean,","summability,","Hadamard","multiplication"],
+    "mathsubclass": "41A10, 40G05, 46E20, 41A17",
+    "abstract": "For a positive integer \\(m\\) and a finite non-negative Borel measure \\(\\mu\\) on the unit circle, we study the Hadamard multipliers of higher order weighted Dirichlet-type spaces \\(\\mathcal{H}_{\\mu,m}\\). We show that if \\(\\alpha \u003e \\frac{1}{2}\\), then for any \\(f\\) in \\(\\mathcal{H}_{\\mu,m}\\) the sequence of generalized Cesàro sums \\(\\{\\sigma^{\\alpha}_{n}[f]\\}\\) converges to \\(f\\). We further show that if \\(\\alpha = \\frac{1}{2}\\) then for the Dirac delta measure supported at any point on the unit circle, the previous statement breaks down for every positive integer \\(m\\).",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-3-2024/art5/",
+    "description": "Opuscula Math. 44, no. 3 (2024), 373-390",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.373\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.373\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-3-2024/art5.pdf"
+  },
+  {
     "title": "On uniqueness of packing of three copies of 2-factors",
     "authors": ["Igor Grzelec","Tomáš Madaras","Alfréd Onderko"],
     "keywords": ["uniquely","packable","graph,","2-factor,","3-packing"],
@@ -64,6 +174,28 @@
     "description": "Opuscula Math. 45, no. 1 (2025), 79-101",
     "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.79\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.79\u003c/a\u003e",
     "pdf": "/pdf/vol-45-no-1-2025/art6.pdf"
+  },
+  {
+    "title": "On expansive three-isometries",
+    "authors": ["Laurian Suciu"],
+    "keywords": ["Wold","decomposition,","3-isometry,","sub-Brownian","3-isometry"],
+    "mathsubclass": "47A05, 47A15, 47A20, 47A63",
+    "abstract": "The sub-Brownian 3-isometries in Hilbert spaces are the natural counterparts of the 2-isometries, because all of them have Brownian-type extensions in the sense of J. Agler and M. Stankus. We show that all powers \\(T^{n}\\) for \\(n\\geq 2\\) of every expansive 3-isometry \\(T\\) are sub-Brownian, even if \\(T\\) does not have such a property. This fact induces some useful relations between the corresponding covariance operators of \\(T\\). We analyze two matrix representations of \\(T\\) in order to get some conditions under which \\(T\\) is sub-Brownian, or \\(T\\) admits the Wold-type decomposition in the sense of S. Shimorin. We show that the restriction of \\(T\\) to its range is sub-Brownian of McCullough's type, and that under some conditions on \\(\\mathcal{N}(T^{*})\\), \\(T\\) itself is sub-Brownian, and it admits the Wold-type decomposition.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art6/",
+    "description": "Opuscula Math. 44, no. 6 (2024), 883-898",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.6.883\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.6.883\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-6-2024/art6.pdf"
+  },
+  {
+    "title": "On the Möbius invariant principal functions of Pincus",
+    "authors": ["Sagar Ghosh","Gadadhar Misra"],
+    "keywords": ["hyponormal","operator,","multiplicity,","trace","formula,","homogeneous","operators,","principal","function"],
+    "mathsubclass": "47B20",
+    "abstract": "In this semi-expository short note, we prove that the only homogeneous pure hyponormal operator \\(T\\) with \\(\\operatorname{\\mathbf{rank}}(T^{*}T - TT^{*}) = 1\\), modulo unitary equivalence, is the unilateral shift.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-3-2024/art6/",
+    "description": "Opuscula Math. 44, no. 3 (2024), 391-407",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.391\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.391\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-3-2024/art6.pdf"
   },
   {
     "title": "Note on robust coloring of planar graphs",
@@ -77,6 +209,39 @@
     "pdf": "/pdf/vol-45-no-1-2025/art7.pdf"
   },
   {
+    "title": "Reverse Lieb-Thirring inequality for the half-line matrix Schrödinger operator",
+    "authors": ["Ricardo Weder"],
+    "keywords": ["spectral","inequalities,","matrix","Schrödinger","equations,","Lieb-Thirring","inequalities"],
+    "mathsubclass": "34L15, 34L40, 81Q10",
+    "abstract": "We prove a reverse Lieb-Thirring inequality with a sharp constant for the matrix Schrödinger equation on the half-line.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art7/",
+    "description": "Opuscula Math. 44, no. 6 (2024), 899-916",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.6.899\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.6.899\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-6-2024/art7.pdf"
+  },
+  {
+    "title": "Positive solutions for nonparametric anisotropic singular solutions",
+    "authors": ["Nikolaos S. Papageorgiou","Vicenţiu D. Rădulescu","Xueying Sun"],
+    "keywords": ["variable","Lebesgue","and","Sobolev","spaces,","anisotropic","regularity,","anisotropic","maximum","principle,","truncations","and","comparisons,","Hardy","inequality"],
+    "mathsubclass": "35B51, 35J60, 35B65, 35J75, 35J92, 46E35, 47J20, 58E05",
+    "abstract": "We consider an elliptic equation driven by a nonlinear, nonhomogeneous differential operator with nonstandard growth. The reaction has the combined effects of a singular term and of a \"superlinear\" perturbation. There is no parameter in the problem. Using variational tools and truncation and comparison techniques, we show the existence of at least two positive smooth solutions.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-3-2024/art7/",
+    "description": "Opuscula Math. 44, no. 3 (2024), 409-423",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.409\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.409\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-3-2024/art7.pdf"
+  },
+  {
+    "title": "Reduction of positive self-adjoint extensions",
+    "authors": ["Zsigmond Tarcsay","Zoltán Sebestyén"],
+    "keywords": ["positive","selfadjoint","contractive","extension,","nonnegative","selfadjoint","extension,","Friedrichs","and","Krein-von","Neumann","extension"],
+    "mathsubclass": "47A57, 47A20, 47B25",
+    "abstract": "We revise Krein's extension theory of semi-bounded Hermitian operators by reducing the problem to finding all positive and contractive extensions of the \"resolvent operator\" \\((I + T)^{-1}\\) of \\(T\\). Our treatment is simpler and more natural than Krein's original method based on the Krein transform \\((I - T)(I + T)^{-1}\\). We impose no constraints on \\(T\\) beyond positivity and symmetry - neither closedness nor domain density requirements. Furthermore, our results hold equally in both real and complex Hilbert spaces.",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-3-2024/art8/",
+    "description": "Opuscula Math. 44, no. 3 (2024), 425-438",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.425\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.425\u003c/a\u003e",
+    "pdf": "pdf/vol-44-no-3-2024/art8.pdf"
+  },
+  {
     "title": "Augmenting graphs to partition their vertices into a total dominating set and an independent dominating set",
     "authors": ["Teresa W. Haynes","Michael A. Henning"],
     "keywords": ["total","domination,","independent","domination,","vertex","partitions"],
@@ -86,17 +251,6 @@
     "description": "Opuscula Math. 45, no. 2 (2025), 179-198",
     "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.179\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.179\u003c/a\u003e",
     "pdf": "pdf/vol-45-no-2-2025/art3.pdf"
-  },
-  {
-    "title": "Combined effects for a class of fractional variational inequalities",
-    "authors": ["Shengbingasdasd Deng","Wenshan Luo","César E. Torres Ledesma"],
-    "keywords": ["fractional","variational","inequality,","variational","methods,","critical","nonlinearity"],
-    "mathsubclass": "35A15, 35J86, 49J40",
-    "abstract": "In this paper, we study the existence of a nonnegative weak solution to the following nonlocal variational inequality:\r\n$$\r\n\\int_{\\mathbb{R}^N} (-\\Delta)^{s/2} u (-\\Delta)^{s/2} (v - u) \\, dx + \\int_{\\mathbb{R}^N} (1 + \\lambda M(x)) u (v - u) \\, dx \\geq \\int_{\\mathbb{R}^N} f(u) (v - u) \\, dx,\r\n$$\r\nfor all \\( v \\in \\mathcal{K} \\), where \\( s \\in (0, 1) \\) and \\( M \\) is a continuous steep potential well on \\( \\mathbb{R}^N \\). Using penalization techniques from del Pino and Felmer, as well as from Bensoussan and Lions, we establish the existence of nonnegative weak solutions. These solutions localize near the potential well \\( \\text{Int}(M^{-1}(0)) \\).\r\n",
-    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art1/",
-    "description": "Opuscula Math. 45, no. 2 (2025), 119-143",
-    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.119\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.119\u003c/a\u003e",
-    "pdf": "pdf/vol-45-no-2-2025/art1.pdf"
   },
   {
     "title": "Combined effects for a class of fractional variational inequalities",
