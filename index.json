@@ -1,5 +1,27 @@
 [
   {
+    "title": "Augmenting graphs to partition their vertices into a total dominating set and an independent dominating set",
+    "authors": ["Teresa W. Haynes","Michael A. Henning"],
+    "keywords": ["total","domination,","independent","domination,","vertex","partitions"],
+    "mathsubclass": "05C69",
+    "abstract": "A graph $G$ whose vertex set can be partitioned into a total dominating set and an independent dominating set is called a TI-graph. There exist infinite families of graphs that are not TI-graphs. We define the TI-augmentation number $\\text{ti}(G)$ of a graph $G$ to be the minimum number of edges that must be added to $G$ to ensure that the resulting graph is a TI-graph. We show that every tree $T$ of order $n \\geq 5$ satisfies $\\text{ti}(T) \\leq \\frac{1}{2}n$. We prove that if $G$ is a bipartite graph of order $n$ with minimum degree $\\delta(G) \\geq 3$, then $\\text{ti}(G) \\leq \\frac{1}{4}n$, and if $G$ is a cubic graph of order $n$, then $\\text{ti}(G) \\leq \\frac{1}{3}n$. We conjecture that $\\text{ti}(G) \\leq \\frac{1}{4}n$ for all graphs $G$ of order $n$ with $\\delta(G) \\geq 3$, and show that there exist connected graphs $G$ of sufficiently large order $n$ with $\\delta(G) \\geq 3$ such that $\\text{ti}(T) \\geq (\\frac{1}{6} - \\epsilon)n$ for any given $\\epsilon \u003e 0$.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art3/",
+    "description": "Opuscula Math. 45, no. 2 (2025), 179-198",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.179\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.179\u003c/a\u003e",
+    "pdf": "pdf/vol-45-no-2-2025/art3.pdf"
+  },
+  {
+    "title": "Combined effects for a class of fractional variational inequalities",
+    "authors": ["Shengbingasdasd Deng","Wenshan Luo","César E. Torres Ledesma"],
+    "keywords": ["fractional","variational","inequality,","variational","methods,","critical","nonlinearity"],
+    "mathsubclass": "35A15, 35J86, 49J40",
+    "abstract": "In this paper, we study the existence of a nonnegative weak solution to the following nonlocal variational inequality:\r\n$$\r\n\\int_{\\mathbb{R}^N} (-\\Delta)^{s/2} u (-\\Delta)^{s/2} (v - u) \\, dx + \\int_{\\mathbb{R}^N} (1 + \\lambda M(x)) u (v - u) \\, dx \\geq \\int_{\\mathbb{R}^N} f(u) (v - u) \\, dx,\r\n$$\r\nfor all \\( v \\in \\mathcal{K} \\), where \\( s \\in (0, 1) \\) and \\( M \\) is a continuous steep potential well on \\( \\mathbb{R}^N \\). Using penalization techniques from del Pino and Felmer, as well as from Bensoussan and Lions, we establish the existence of nonnegative weak solutions. These solutions localize near the potential well \\( \\text{Int}(M^{-1}(0)) \\).\r\n",
+    "url": "/archive/opuscula_mathematica-vol.44-2024/vol-44-no-6-2024/art1/",
+    "description": "Opuscula Math. 45, no. 2 (2025), 119-143",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.119\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.119\u003c/a\u003e",
+    "pdf": "pdf/vol-45-no-2-2025/art1.pdf"
+  },
+  {
     "title": "Combined effects for a class of fractional variational inequalities",
     "authors": ["Shengbing Deng","Wenshan Luo","César E. Torres Ledesma"],
     "keywords": ["fractional","variational","inequality,","variational","methods,","critical","nonlinearity"],
@@ -11,24 +33,57 @@
     "pdf": "pdf/vol-45-no-2-2025/art1.pdf"
   },
   {
+    "title": "Complete characterization of graphs with local total antimagic chromatic number 3",
+    "authors": ["Gee-Choon Lau"],
+    "keywords": ["local","total","antimagic,","local","total","antimagic","chromatic","number"],
+    "mathsubclass": "05C78, 05C69",
+    "abstract": "The paper surveys the results achieved in representing solutions of linear non-homogeneous discrete systems with constant coefficients and with delays and their fractional variants by using special matrices called discrete delayed-type matrices. These are used to express solutions of initial problems in a closed and often simple form. Then, results are briefly discussed achieved by such representations of solutions in stability, controllability and other fields. In addition, a similar topic is dealt with concerning linear non-homogeneous differential equations with delays and their variants. Moreover, some comments are given to this parallel direction pointing some important moments in the developing this theory. An outline of future perspectives in this direction is discussed as well.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art4/",
+    "description": "Opuscula Math. 45, no. 2 (2025), 199-225",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.199\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.199\u003c/a\u003e",
+    "pdf": "pdf/vol-45-no-2-2025/art4.pdf"
+  },
+  {
+    "title": "Extended symmetry of the Witten-Dijkgraaf-Verlinde-Verlinde equation of Monge-Ampere type",
+    "authors": ["Patryk Sitko","Ivan Tsyfra"],
+    "keywords": ["non-point","symmetries,","Witten-Dijkgraaf-Verlinde-Verlinde","equation,","symmetry","group,","transformations,","Lie","algebra"],
+    "mathsubclass": "35B06, 35A22",
+    "abstract": "The paper surveys the results achieved in representing solutions of linear non-homogeneous discrete systems with constant coefficients and with delays and their fractional variants by using special matrices called discrete delayed-type matrices. These are used to express solutions of initial problems in a closed and often simple form. Then, results are briefly discussed achieved by such representations of solutions in stability, controllability and other fields. In addition, a similar topic is dealt with concerning linear non-homogeneous differential equations with delays and their variants. Moreover, some comments are given to this parallel direction pointing some important moments in the developing this theory. An outline of future perspectives in this direction is discussed as well.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art6/",
+    "description": "Opuscula Math. 45, no. 2 (2025), 251-274",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.251\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.251\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-2-2025/art6.pdf"
+  },
+  {
+    "title": "Local properties of graphs that induce global cycle properties",
+    "authors": ["Yanyan Wang","Xiaojing Yang"],
+    "keywords": ["fully","cycle","extendability,","weakly","pancyclicity,","locally","connected"],
+    "mathsubclass": "05C38, 05C45",
+    "abstract": "The paper surveys the results achieved in representing solutions of linear non-homogeneous discrete systems with constant coefficients and with delays and their fractional variants by using special matrices called discrete delayed-type matrices. These are used to express solutions of initial problems in a closed and often simple form. Then, results are briefly discussed achieved by such representations of solutions in stability, controllability and other fields. In addition, a similar topic is dealt with concerning linear non-homogeneous differential equations with delays and their variants. Moreover, some comments are given to this parallel direction pointing some important moments in the developing this theory. An outline of future perspectives in this direction is discussed as well.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art7/",
+    "description": "Opuscula Math. 45, no. 2 (2025), 275-285",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.275\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.275\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-2-2025/art7.pdf"
+  },
+  {
     "title": "Representation of solutions of linear discrete systems with constant coefficients and with delays",
     "authors": ["Josef Diblík"],
     "keywords": ["discrete","linear","system,","constants","coefficients,","delay,","discrete","matrix","functions,","representation","of","solutions,","commutative","matrices,","non-commutative","matrices,","controllability"],
     "mathsubclass": "39A06, 39A12, 39A27, 39A30",
-    "abstract": "The paper surveys the results achieved in representing solutions of linear non-homogeneous discrete systems with constant coefficients and with delays and their fractional variants by using special matrices called discrete delayed-type matrices. These are used to express solutions of initial problems in a closed and often simple form. Then, results are briefly discussed achieved by such representations of solutions in stability, controllability and other fields. In addition, a similar topic is dealt with concerning linear non-homogeneous differential equations with delays and their variants. Moreover, some comments are given to this parallel direction pointing some important moments in the developing this theory. An outline of future perspectives in this direction is discussed as well.\r\n",
+    "abstract": "The paper surveys the results achieved in representing solutions of linear non-homogeneous discrete systems with constant coefficients and with delays and their fractional variants by using special matrices called discrete delayed-type matrices. These are used to express solutions of initial problems in a closed and often simple form. Then, results are briefly discussed achieved by such representations of solutions in stability, controllability and other fields. In addition, a similar topic is dealt with concerning linear non-homogeneous differential equations with delays and their variants. Moreover, some comments are given to this parallel direction pointing some important moments in the developing this theory. An outline of future perspectives in this direction is discussed as well.",
     "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art2/",
     "description": "Opuscula Math. 45, no. 2 (2025), 145-177",
     "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.145\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.145\u003c/a\u003e",
-    "pdf": "/pdf/opuscula_math_4509.pdf"
+    "pdf": "pdf/vol-45-no-2-2025/art2.pdf"
   },
   {
-    "title": "Combined effects for a class of fractional variational inequalities",
-    "authors": ["jkowalski","anowak"],
-    "keywords": ["fractional","variational","inequality,","variational","methods,","critical","nonlinearity."],
-    "mathsubclass": "35A15, 35J86, 49J40.",
-    "abstract": "Techniques from del Pino and Felmer, as well as from Bensoussan and Lions\r\n$$\r\n\\int_0^\\infty e^{-x^2} dx = \\frac{\\sqrt{\\pi}}{2}\r\n$$\r\nIn this paper, we study the existence of a nonnegative weak solution to the following nonlocal variational inequality:\r\n",
-    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art3/",
-    "description": "Opuscula Math. 45, no. 2 (2025), 119-143",
-    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.119\" target=\"_blank\"\u003eDOI:10.7494/OpMath.2025.45.2.119\u003c/a\u003e",
-    "pdf": "/pdf/Opuscula_45_2_119-143.pdf"
+    "title": "Spectral analysis of infinite Marchenko-Slavin matrices",
+    "authors": ["Sergio Palafox","Luis O. Silva"],
+    "keywords": ["inverse","spectral","problem,","band","symmetric","matrices,","spectral","measure"],
+    "mathsubclass": "34K29, 47B39, 70F17",
+    "abstract": "The paper surveys the results achieved in representing solutions of linear non-homogeneous discrete systems with constant coefficients and with delays and their fractional variants by using special matrices called discrete delayed-type matrices. These are used to express solutions of initial problems in a closed and often simple form. Then, results are briefly discussed achieved by such representations of solutions in stability, controllability and other fields. In addition, a similar topic is dealt with concerning linear non-homogeneous differential equations with delays and their variants. Moreover, some comments are given to this parallel direction pointing some important moments in the developing this theory. An outline of future perspectives in this direction is discussed as well.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-2-2025/art5/",
+    "description": "Opuscula Math. 45, no. 2 (2025), 227-249",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.2.227\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.2.227\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-2-2025/art5.pdf"
   }]
