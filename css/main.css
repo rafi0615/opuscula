@@ -332,21 +332,22 @@ mjx-container.MathJax_SVG_Display,
 mjx-container[display="true"] {
   display: block;
   text-align: center;
-  margin: 1em 0 !important;
+  margin: 1em auto !important;
   overflow-x: auto !important;
   overflow-y: hidden;
-  max-width: 100vw !important;
-  width: 100% !important;
+  max-width: 80% !important;
+  width: auto !important;
   box-sizing: border-box;
   padding-bottom: 4px;
   -webkit-overflow-scrolling: touch;
 }
 mjx-container.MathJax_SVG_Display svg,
 mjx-container[display="true"] > svg {
-  width: 100% !important;
-  max-width: 100vw !important;
+  width: auto !important;
+  max-width: 100% !important;
   height: auto !important;
   display: block;
+  margin: 0 auto;
 }
 
 mjx-container:not(.MathJax_SVG_Display):not([display="true"]) {

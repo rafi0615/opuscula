@@ -1,5 +1,82 @@
 [
   {
+    "title": "Graphs with odd and even distances between non-cut vertices",
+    "authors": ["Kateryna Antoshyna","Sergiy Kozerenko"],
+    "keywords": ["non-cut","vertex,","graph","distance,","line","graph,","block,","strong","unique","independence","tree"],
+    "mathsubclass": "05C12, 05C05, 05C75",
+    "abstract": "We prove that in a connected graph, the distances between non-cut vertices are odd if and only if it is the line graph of a strong unique independence tree. We then show that any such tree can be inductively constructed from stars using a simple operation. Further, we study the connected graphs in which the distances between non-cut vertices are even (shortly, NCE-graphs). Our main results on NCE-graphs are the following: we give a criterion of NCE-graphs, show that any bipartite graph is an induced subgraph of an NCE-graph, characterize NCE-graphs with exactly two leaves, characterize graphs that can be subdivided to NCE-graphs, and provide a characterization for NCE-graphs which are maximal with respect to the edge addition operation.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-1-2025/art1/",
+    "description": "Opuscula Math. 45, no. 2 (2025), 5-25",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.5\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.5\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-1-2025/art1.pdf"
+  },
+  {
+    "title": "Monotonic properties of Kneser solutions of second order linear differential equations with delayed argument",
+    "authors": ["Blanka Baculíková"],
+    "keywords": ["second","order,","differential","equations,","delayed","argument,","monotonic","properties,","oscillation"],
+    "mathsubclass": "34K11, 34C10",
+    "abstract": "In this paper new monotonic properties of nonoscillatory solutions for second order linear functional differential equations with delayed argument\r\n$$\r\ny''(t) = p(t)y(τ(t))\r\n$$\r\nhave been established. New properties are used to introduce criteria for elimination of bounded nonoscillatory solutions for studied equations.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-1-2025/art2/",
+    "description": "Opuscula Math. 45, no. 1 (2025), 27-38",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.27\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.27\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-1-2025/art2.pdf"
+  },
+  {
+    "title": "The metric dimension of circulant graphs",
+    "authors": ["Tapendra BC","Shonda Dueck"],
+    "keywords": ["metric","dimension,","circulant","graph"],
+    "mathsubclass": "05C12, 05C65, 05C25, 05E18",
+    "abstract": "A pair of vertices \\( x \\) and \\( y \\) in a graph \\( G \\) are said to be resolved by a vertex \\( w \\) if the distance from \\( x \\) to \\( w \\) is not equal to the distance from \\( y \\) to \\( w \\). We say that \\( G \\) is resolved by a subset of its vertices \\( W \\) if every pair of vertices in \\( G \\) is resolved by some vertex in \\( W \\). The minimum cardinality of a resolving set for \\( G \\) is called the metric dimension of \\( G \\), denoted by \\( \\dim(G) \\). The circulant graph \\( C_n(1,2,\\ldots,t) \\) is the Cayley graph \\( \\mathrm{Cay}(\\mathbb{Z}_n : \\{\\pm1,\\pm2,\\ldots,\\pm t\\}) \\). In this note we prove that, for \\( n = 2kt + 2t \\), \\( \\dim(C_n(1,2,\\ldots,t)) = t + 2 \\), confirming Conjecture 4.1.2 in [K. Chau, S. Gosselin, The metric dimension of circulant graphs and their Cartesian products, Opuscula Math. 47 (2017), 509-534].",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-1-2025/art3/",
+    "description": "Opuscula Math. 45, no. 1 (2025), 39-51",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.39\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.39\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-1-2025/art3.pdf"
+  },
+  {
+    "title": "(1,2)-PDS in graphs with the small number of vertices of large degrees",
+    "authors": ["Urszula Bednarz","Mateusz Pirga"],
+    "keywords": ["domination,","secondary","domination,","neighborhoods,","maximum","degree"],
+    "mathsubclass": "05C69, 05C76",
+    "abstract": "We define and study a perfect \\((1,2)\\)-dominating set which is a special case of a \\((1,2)\\)-dominating set. We discuss the existence of a perfect \\((1,2)\\)-dominating set in graphs with at most two vertices of maximum degree. In particular, we present a complete solution if the maximum degree equals \\(n - 1\\) or \\(n - 2\\).",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-1-2025/art4/",
+    "description": "Opuscula Math. 45, no. 1 (2025), 53-62",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.53\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.53\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-1-2025/art4.pdf"
+  },
+  {
+    "title": "Total mutual-visibility in Hamming graphs",
+    "authors": ["Csilla Bujtás","Sandi Klavžar","Jing Tian"],
+    "keywords": ["mutual-visibility","set,","total","mutual-visibility","set,","Hamming","graph,","Turán-type","problem"],
+    "mathsubclass": "05C12, 05C38, 05C65, 05C76",
+    "abstract": "If \\(G\\) is a graph and \\(X \\subseteq V(G)\\), then \\(X\\) is a total mutual-visibility set if every pair of vertices \\(x\\) and \\(y\\) of \\(G\\) admits the shortest \\(x,y\\)-path \\(P\\) with \\(V(P) \\cap X \\subseteq \\{x,y\\}\\). The cardinality of the largest total mutual-visibility set of \\(G\\) is the total mutual-visibility number \\(\\mu(G)\\) of \\(G\\). In the paper the total mutual-visibility number is studied on Hamming graphs, that is, Cartesian products of complete graphs. Different equivalent formulations for the problem are derived. The values \\(\\mu(K_{n_1} \\Box \\cdots \\Box K_{n_h})\\) are determined. It is proved that \\(\\mu(K_{n_1} \\Box \\cdots \\Box K_{n_h}) = O(N^{r-2})\\), where \\(N = n_1 + \\cdots + n_h\\), and that \\(\\mu(K_r^n) = O(r^{n-2})\\) for every \\(r \\geq 3\\), where \\(K_r^n\\) denotes the Cartesian product of \\(r\\) copies of \\(K_n\\). The main theorems are also reformulated as Turán-type results on hypergraphs.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-1-2025/art5/",
+    "description": "Opuscula Math. 45, no. 1 (2025), 63-78",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.63\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.63\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-1-2025/art5.pdf"
+  },
+  {
+    "title": "On uniqueness of packing of three copies of 2-factors",
+    "authors": ["Igor Grzelec","Tomáš Madaras","Alfréd Onderko"],
+    "keywords": ["uniquely","packable","graph,","2-factor,","3-packing"],
+    "mathsubclass": "05C70",
+    "abstract": "The packing of three copies of a graph \\(G\\) is the union of three edge-disjoint copies (with the same vertex set) of \\(G\\). In this paper, we completely solve the problem of the uniqueness of packing of three copies of 2-regular graphs. In particular, we show that \\(C_3\\), \\(C_4\\), \\(C_5\\), \\(C_6\\) and \\(2C_3\\) have no packing of three copies, \\(C_7\\), \\(C_8\\), \\(C_4 \\cup C_4\\), \\(C_4 \\cup C_4\\), \\(C_3 \\cup C_5\\) and \\(3C_3\\) have unique packing, and any other collection of cycles has at least two distinct packings.",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-1-2025/art6/",
+    "description": "Opuscula Math. 45, no. 1 (2025), 79-101",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.79\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.79\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-1-2025/art6.pdf"
+  },
+  {
+    "title": "Note on robust coloring of planar graphs",
+    "authors": ["František Kardoš","Borut Lužar","Roman Soták"],
+    "keywords": ["robust","coloring,","robust","chromatic","number,","Tutte","graph,","planar","graph"],
+    "mathsubclass": "05C15, 05C10",
+    "abstract": "We consider the robust chromatic number \\(\\chi_1(G)\\) of planar graphs \\(G\\) and show that there exists an infinite family of planar graphs \\(G\\) with \\(\\chi_1(G) = 3\\), thus solving a recent problem of Bacsó et al. from [The robust chromatic number of graphs, Graphs Combin. 40 (2024), #89].",
+    "url": "/archive/opuscula_mathematica-vol.45-2025/vol-45-no-1-2025/art7/",
+    "description": "Opuscula Math. 45, no. 1 (2025), 103-111",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2025.45.1.103\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2025.45.1.103\u003c/a\u003e",
+    "pdf": "/pdf/vol-45-no-1-2025/art7.pdf"
+  },
+  {
     "title": "Augmenting graphs to partition their vertices into a total dominating set and an independent dominating set",
     "authors": ["Teresa W. Haynes","Michael A. Henning"],
     "keywords": ["total","domination,","independent","domination,","vertex","partitions"],
