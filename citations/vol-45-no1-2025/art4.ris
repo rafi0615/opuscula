@@ -1,0 +1,25 @@
+TY  - JOUR
+ID  - Bednarz2025
+LB  - Bednarz2025
+AU  - Bednarz, Urszula
+AU  - Pirga, Mateusz
+TI  - (1,2)-PDS in graphs with the small number of vertices of large degrees
+ST  - (1,2)-PDS in graphs with the small number of vertices of large degrees
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 1
+SP  - 53
+EP  - 62
+DO  - https://doi.org/10.7494/OpMath.2025.45.1.53
+UR  - https://doi.org/10.7494/OpMath.2025.45.1.53
+AB  - We define and study a perfect \((1,2)\)-dominating set which is a special case of a \((1,2)\)-dominating set. We discuss the existence of a perfect \((1,2)\)-dominating set in graphs with at most two vertices of maximum degree. In particular, we present a complete solution if the maximum degree equals \(n-1\) or \(n-2\).
+KW  - domination
+KW  - secondary domination
+KW  - neighborhoods
+KW  - maximum degree
+SN  - 1232-9274
+ER  - 
+

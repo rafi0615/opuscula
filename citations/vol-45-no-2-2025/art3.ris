@@ -1,0 +1,24 @@
+TY  - JOUR
+ID  - Haynes2025
+LB  - Haynes2025
+AU  - Haynes, Teresa W.
+AU  - Henning, Michael A.
+TI  - Augmenting graphs to partition their vertices into a total dominating set and an independent dominating set
+ST  - Augmenting graphs to partition their vertices into a total dominating set and an independent dominating set
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 2
+SP  - 179
+EP  - 198
+DO  - https://doi.org/10.7494/OpMath.2025.45.2.179
+UR  - https://doi.org/10.7494/OpMath.2025.45.2.179
+AB  - A graph \(G\) whose vertex set can be partitioned into a total dominating set and an independent dominating set is called a TI-graph. There exist infinite families of graphs that are not TI-graphs. We define the TI-augmentation number \(\operatorname{ti}(G)\) of a graph \(G\) to be the minimum number of edges that must be added to \(G\) to ensure that the resulting graph is a TI-graph. We show that every tree \(T\) of order \(n \geq 5\) satisfies \(\operatorname{ti}(T) \leq \frac{1}{5}n\). We prove that if \(G\) is a bipartite graph of order \(n\) with minimum degree \(\delta(G) \geq 3\), then \(\operatorname{ti}(G) \leq \frac{1}{4}n\), and if \(G\) is a cubic graph of order \(n\), then \(\operatorname{ti}(G) \leq \frac{1}{3}n\). We conjecture that \(\operatorname{ti}(G) \leq \frac{1}{6}n\) for all graphs \(G\) of order \(n\) with \(\delta(G) \geq 3\), and show that there exist connected graphs \(G\) of sufficiently large order \(n\) with \(\delta(G) \geq 3\) such that \(\operatorname{ti}(T) \geq (\frac{1}{6} - \varepsilon) n\) for any given \(\varepsilon \gt 0\).
+KW  - total domination
+KW  - independent domination
+KW  - vertex partitions
+SN  - 1232-9274
+ER  - 
+

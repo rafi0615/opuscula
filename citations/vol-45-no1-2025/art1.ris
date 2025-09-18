@@ -1,0 +1,26 @@
+TY  - JOUR
+ID  - Antoshyna2025
+LB  - Antoshyna2025
+AU  - Antoshyna, Kateryna
+AU  - Kozerenko, Sergiy
+TI  - Graphs with odd and even distances between non-cut vertices
+ST  - Graphs with odd and even distances between non-cut vertices
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 1
+SP  - 5
+EP  - 25
+DO  - https://doi.org/10.7494/OpMath.2025.45.1.5
+UR  - https://doi.org/10.7494/OpMath.2025.45.1.5
+AB  - We prove that in a connected graph, the distances between non-cut vertices are odd if and only if it is the line graph of a strong unique independence tree. We then show that any such tree can be inductively constructed from stars using a simple operation. Further, we study the connected graphs in which the distances between non-cut vertices are even (shortly, NCE-graphs). Our main results on NCE-graphs are the following: we give a criterion of NCE-graphs, show that any bipartite graph is an induced subgraph of an NCE-graph, characterize NCE-graphs with exactly two leaves, characterize graphs that can be subdivided to NCE-graphs, and provide a characterization for NCE-graphs which are maximal with respect to the edge addition operation.
+KW  - non-cut vertex
+KW  - graph distance
+KW  - line graph
+KW  - block
+KW  - strong unique independence tree
+SN  - 1232-9274
+ER  - 
+

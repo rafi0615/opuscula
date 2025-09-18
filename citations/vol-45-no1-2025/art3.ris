@@ -1,0 +1,23 @@
+TY  - JOUR
+ID  - BC2025
+LB  - BC2025
+AU  - BC, Tapendra
+AU  - Dueck, Shonda
+TI  - The metric dimension of circulant graphs
+ST  - The metric dimension of circulant graphs
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 1
+SP  - 39
+EP  - 51
+DO  - https://doi.org/10.7494/OpMath.2025.45.1.39
+UR  - https://doi.org/10.7494/OpMath.2025.45.1.39
+AB  - A pair of vertices \(x\) and \(y\) in a graph \(G\) are said to be resolved by a vertex \(w\) if the distance from \(x\) to \(w\) is not equal to the distance from \(y\) to \(w\). We say that \(G\) is resolved by a subset of its vertices \(W\) if every pair of vertices in \(G\) is resolved by some vertex in \(W\). The minimum cardinality of a resolving set for \(G\) is called the metric dimension of \(G\), denoted by \(\dim(G)\). The circulant graph \(C_n(1,2,\ldots,t)\) is the Cayley graph \(Cay(\mathbb{Z}_n:\{\pm 1, \pm 2, \ldots, \pm t\})\). In this note we prove that, for \(n=2kt+2t\), \(\dim(C_n(1,2,\ldots,t))\geq t+2\), confirming Conjecture 4.1.2 in [K. Chau, S. Gosselin, The metric dimension of circulant graphs and their Cartesian products, Opuscula Math. 37 (2017), 509-534].
+KW  - metric dimension
+KW  - circulant graph
+SN  - 1232-9274
+ER  - 
+

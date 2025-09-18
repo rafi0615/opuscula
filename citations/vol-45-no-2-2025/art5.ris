@@ -1,0 +1,24 @@
+TY  - JOUR
+ID  - Palafox2025
+LB  - Palafox2025
+AU  - Palafox, Sergio
+AU  - Silva, Luis O.
+TI  - Spectral analysis of infinite Marchenko-Slavin matrices
+ST  - Spectral analysis of infinite Marchenko-Slavin matrices
+JO  - Opuscula Math.
+JA  - Opuscula Math.
+JF  - Opuscula Mathematica
+PY  - 2025
+VL  - 45
+IS  - 2
+SP  - 227
+EP  - 249
+DO  - https://doi.org/10.7494/OpMath.2025.45.2.227
+UR  - https://doi.org/10.7494/OpMath.2025.45.2.227
+AB  - This work tackles the problem of spectral characterization of a class of infinite matrices arising from the modeling of small oscillations in a system of interacting particles. The class of matrices under discussion corresponds to the infinite Marchenko-Slavin class. The spectral functions of these matrices are completely characterized, and an algorithm is provided for the reconstruction of the matrix from its spectral function. The techniques used in this work are based on recent results for the spectral characterization of infinite band symmetric matrices with so-called degenerations.
+KW  - inverse spectral problem
+KW  - band symmetric matrices
+KW  - spectral measure
+SN  - 1232-9274
+ER  - 
+

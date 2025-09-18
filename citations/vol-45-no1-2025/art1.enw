@@ -1,0 +1,22 @@
+%0 Journal Article
+%F Antoshyna2025
+%A Antoshyna, Kateryna
+%A Kozerenko, Sergiy
+%T Graphs with odd and even distances between non-cut vertices
+%! Graphs with odd and even distances between non-cut vertices
+%J Opuscula Mathematica
+%O Opuscula Math.
+%D 2025
+%V 45
+%N 1
+%P 5-25
+%R https://doi.org/10.7494/OpMath.2025.45.1.5
+%U https://doi.org/10.7494/OpMath.2025.45.1.5
+%X We prove that in a connected graph, the distances between non-cut vertices are odd if and only if it is the line graph of a strong unique independence tree. We then show that any such tree can be inductively constructed from stars using a simple operation. Further, we study the connected graphs in which the distances between non-cut vertices are even (shortly, NCE-graphs). Our main results on NCE-graphs are the following: we give a criterion of NCE-graphs, show that any bipartite graph is an induced subgraph of an NCE-graph, characterize NCE-graphs with exactly two leaves, characterize graphs that can be subdivided to NCE-graphs, and provide a characterization for NCE-graphs which are maximal with respect to the edge addition operation.
+%K non-cut vertex
+graph distance
+line graph
+block
+strong unique independence tree
+%@ 1232-9274
+
