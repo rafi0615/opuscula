@@ -2,11 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opuscula Mathematica - vol. 35, no. 5 (2015) on Opuscula Mathematica</title>
-    <link>https://rafi0615.github.io/opuscula/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/</link>
+    <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/</link>
     <description>Recent content in Opuscula Mathematica - vol. 35, no. 5 (2015) on Opuscula Mathematica</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://rafi0615.github.io/opuscula/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rigidity of monodromies for Appell&#39;s hypergeometric functions</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art1/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the summability of divergent power series solutions for certain first-order linear PDEs</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art2/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On k-summability of formal solutions for certain partial differential operators with polynomial coefficients</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art3/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On mean-value properties for the Dunkl polyharmonic functions</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art4/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Katz&#39;s middle convolution and Yokoyama&#39;s extending operation</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art5/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Maillet type theorem for singular first order nonlinear partial differential equations of totally characteristic type. Part II</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art6/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the existence of solutions of the Cauchy problem for the nonlinear wave equation with small data in the Gevrey class</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art7/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the Cauchy problem for non-effectively hyperbolic operators with triple characteristics</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art8/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the Cauchy problem for non-effectively hyperbolic operators with double characteristics</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art9/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the Cauchy problem for non-effectively hyperbolic operators with multiple characteristics</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art10/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the Cauchy problem for non-effectively hyperbolic operators with irregular singularities</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art11/</link>
+      <pubDate>Mon, 27 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art11/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

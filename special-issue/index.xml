@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Special issues - Opuscula Mathematica on Opuscula Mathematica</title>
-    <link>https://rafi0615.github.io/opuscula/special-issue/</link>
+    <link>http://localhost:1313/special-issue/</link>
     <description>Recent content in Special issues - Opuscula Mathematica on Opuscula Mathematica</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="https://rafi0615.github.io/opuscula/special-issue/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/special-issue/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

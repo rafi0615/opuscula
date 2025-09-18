@@ -2,11 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opuscula Mathematica - vol. 34, no. 1 (2014) on Opuscula Mathematica</title>
-    <link>https://rafi0615.github.io/opuscula/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/</link>
+    <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/</link>
     <description>Recent content in Opuscula Mathematica - vol. 34, no. 1 (2014) on Opuscula Mathematica</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://rafi0615.github.io/opuscula/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asymptotic behavior of nonoscillatory solutions of higher-order integro-dynamic equations</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art1/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Existence and uniqueness of the solutions of some degenerate nonlinear elliptic equations</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art2/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>$p$-adic Banach space operators and adelic Banach space operators</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art3/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Approximating fixed points of a countable family of strict pseudocontractions in Banach spaces</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art4/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Problem of detecting inclusions by topological optimization</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art5/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art5/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comparison and oscillation theorems for singular Sturm-Liouville operators</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art6/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art6/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A totally magic cordial labeling of one-point union of n copies of a graph</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art7/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art7/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>On the dimension of Archimedean solids</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art8/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art8/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asymptotics of the discrete spectrum for complex Jacobi matrices</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art9/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asymptotically isometric copies of $c_0$ in Musielak-Orlicz spaces</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art10/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art10/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>A Neumann boundary value problem for a class of gradient systems</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art11/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art11/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fixed point theorems for a semigroup of total asymptotically nonexpansive mappings in uniformly convex Banach spaces</title>
+      <link>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art12/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art12/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

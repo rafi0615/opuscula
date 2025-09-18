@@ -295,6 +295,7 @@ header {
   text-decoration: none;
   color: inherit; 
   font-weight: normal;
+  font-size: 0.8rem;
 }
 
 .doi-link a:hover {
@@ -544,7 +545,7 @@ footer a:hover {
     top: 100px;
     right: 0;
     width: 150px;
-    border-radius: 20px;
+    border-radius: 20px 0 0 20px;
     background: #f8f8f8;
     padding: 20px;
     box-shadow: -3px 0 10px rgba(0,0,0,0.1);
@@ -576,7 +577,7 @@ footer a:hover {
   .menu-item.active {
     background-color: #ececec;
     border: 1px solid #cecccc;
-    border-radius: 10px;
+    border-radius: 0 0 20px 20px;
   }
   
   .dropdown {
@@ -1358,4 +1359,13 @@ footer a:hover {
   border-left: #4a4134 1px solid;
   border-right: #4a4134 1px solid;
   padding: 20px;
+}
+
+.header-image{
+  border: #4a4134 1px solid;
+  margin-right: 20px;
+}
+
+.header-img-text{
+  display: flex;
 }

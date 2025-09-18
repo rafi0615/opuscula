@@ -33,6 +33,116 @@
     "pdf": "pdf/vol-44-no-3-2024/art1.pdf"
   },
   {
+    "title": "Hildebrandt's theorem for the essential spectrum",
+    "authors": ["Janko Bračič","Cristina Diogo"],
+    "keywords": ["essential","spectrum,","essential","numerical","range,","Hildebrandt's","theorem"],
+    "mathsubclass": "47A10, 47A12",
+    "abstract": "We prove a variant of Hildebrandt's theorem which asserts that the convex hull of the essential spectrum of an operator A on a complex Hilbert space is equal to the intersection of the essential numerical ranges of operators which are similar to A. As a consequence, it is given a necessary and sufficient condition for zero not being in the convex hull of the essential spectrum of A.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-3-2015/art1/",
+    "description": "Opuscula Math. 35, no. 3 (2015), 279-285",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.3.279\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.3.279\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-3-2015/art1.pdf"
+  },
+  {
+    "title": "Vertex-weighted Wiener polynomials of subdivision-related graphs",
+    "authors": ["Mahdieh Azari","Ali Iranmanesh","Tomislav Došlić"],
+    "keywords": ["vertex-weighted","Wiener","numbers,","vertex-weighted","Wiener","polynomials,","subdivision","graphs"],
+    "mathsubclass": "05C76, 05C12, 05C07",
+    "abstract": "Singly and doubly vertex-weighted Wiener polynomials are generalizations of both vertex-weighted Wiener numbers and the ordinary Wiener polynomial. In this paper, we show how the vertex-weighted Wiener polynomials of a graph change with subdivision operators, and apply our results to obtain vertex-weighted Wiener numbers.",
+    "url": "/archive/opuscula_mathematica-vol.36-2016/vol-36-no-1-2016/art1/",
+    "description": "Opuscula Math. 36, no. 1 (2016), 5-23",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2016.36.1.5\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2016.36.1.5\u003c/a\u003e",
+    "pdf": "pdf/vol-36-no-1-2016/art1.pdf"
+  },
+  {
+    "title": "Rigidity of monodromies for Appell's hypergeometric functions",
+    "authors": ["Yoshishige Haraoka","Tatsuya Kikukawa"],
+    "keywords": ["rigidity,","monodromy,","arrangement","of","hyperplanes"],
+    "mathsubclass": "33C65, 57M05",
+    "abstract": "For monodromy representations of holonomic systems, the rigidity can be defined. We examine the rigidity of the monodromy representations for Appell's hypergeometric functions, and get the representations explicitly. The results show how the topology of the singular locus and the spectral types of the local monodromies work for the study of the rigidity.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art1/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 567-594",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.567\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.567\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art1.pdf"
+  },
+  {
+    "title": "On dynamical systems induced by p-adic number fields",
+    "authors": ["Ilwoo Cho"],
+    "keywords": ["prime","fields,","p-adic","number","fields,","the","Adele","ring,","p-adic","von","Neumann","algebras,","p-adic","dynamical","systems"],
+    "mathsubclass": "05E15, 11R47, 46L54, 47L15, 47L55",
+    "abstract": "In this paper, we construct dynamical systems induced by p-adic number fields Q_p. We study the corresponding crossed product operator algebras induced by such dynamical systems. In particular, we are interested in structure theorems, and free distributional data of elements in the operator algebras.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-4-2015/art1/",
+    "description": "Opuscula Math. 35, no. 4 (2015), 445-484",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.4.445\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.4.445\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-4-2015/art1.pdf"
+  },
+  {
+    "title": "On small vibrations of a damped Stieltjes string",
+    "authors": ["Olga Boyko","Vyacheslav Pivovarchik"],
+    "keywords": ["damping,","Dirichlet","boundary","condition,","point","mass,","Hermite-Biehler","polynomial,","continued","fraction,","eigenvalues"],
+    "mathsubclass": "35Q99, 39A99",
+    "abstract": "Inverse problem of recovering masses, coefficients of damping and lengths of the intervals between the masses using two spectra of boundary value problems and the total length of the Stieltjes string (an elastic thread bearing point masses) is considered. For the case of point-wise damping at the first counting from the right end mass the problem of recovering the masses, the damping coefficient and the lengths of the subintervals by one spectrum and the total length of the string is solved.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-2-2015/art1/",
+    "description": "Opuscula Math. 35, no. 2 (2015), 143-159",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.2.143\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.2.143\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-2-2015/art1.pdf"
+  },
+  {
+    "title": "Positive solutions with specific asymptotic behavior for a polyharmonic problem on $\\mathbb{R}^n$",
+    "authors": ["Abdelwaheb Dhifli"],
+    "keywords": ["asymptotic","behavior,","Dirichlet","problem,","Schauder","fixed","point","theorem,","positive","bounded","solutions"],
+    "mathsubclass": "34B18, 35B40, 35J40",
+    "abstract": "This paper is concerned with positive solutions of the semilinear polyharmonic equation $(-\\Delta)^m u = a(x)u^\\alpha$ on $\\mathbb{R}^n$, where $m$ and $n$ are positive integers with $n \u003e 2m$, $\\alpha \\in (-1, 1)$. The coefficient $a$ is assumed to satisfy $a(x) \\approx (1 + |x|)^{-\\lambda}L(1 + |x|)$ for $x \\in \\mathbb{R}^n$, where $\\lambda \\in [2m, \\infty)$ and $L \\in C^1([1, \\infty))$ is positive with $\\frac{tL'(t)}{L(t)} \\to 0$ as $t \\to \\infty$; if $\\lambda = 2m$, one also assumes that $\\int_{1}^{\\infty} t^{-1} L(t) dt \u003c \\infty$. We prove the existence of a positive solution $u$ such that $u(x) \\approx (1 + |x|)^{-\\tilde{\\lambda}} \\tilde{L}(1 + |x|)$ for $x \\in \\mathbb{R}^n$, with $\\tilde{\\lambda} := \\min(n - 2m, \\frac{\\lambda - 2m}{1 - \\alpha})$ and a function $\\tilde{L}$, given explicitly in terms of $L$ and satisfying the same condition at infinity.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art1/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 5-19",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.5\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.5\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art1.pdf"
+  },
+  {
+    "title": "A note on on-line Ramsey numbers for quadrilaterals",
+    "authors": ["Joanna Cyman","Tomasz Dzido"],
+    "keywords": ["Ramsey","theory,","on-line","games."],
+    "mathsubclass": "05C55, 05C57",
+    "abstract": "We consider on-line Ramsey numbers defined by a game played between two players, Builder and Painter. In each round Builder draws an the edge and Painter colors it either red or blue, as it appears. Builder's goal is to force Painter to create a monochromatic copy of a fixed graph \\( H \\) in as few rounds as possible. The minimum number of rounds (assuming both players play perfectly) is the on-line Ramsey number \\( r(H) \\) of the graph \\( H \\). An asymmetric version of the on-line Ramsey number \\( r(C_1,H) \\) is defined accordingly. In 2005, Kurek and Rucinski computed \\( r(C_3) \\). In this paper, we compute \\( r(C_4,C_k) \\) for \\( 3 \\leq k \\leq 7 \\). Most of the results are based on computer algorithms but we obtain the exact value \\( r(C_4) \\) and do so without the help of computer algorithms.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art1/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 483-488",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.483\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.483\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art1.pdf"
+  },
+  {
+    "title": "Asymptotic behavior of nonoscillatory solutions of higher-order integro-dynamic equations",
+    "authors": ["Martin Bohner","Said Grace","Nasrin Sultana"],
+    "keywords": ["dynamic","equations,","time","scales,","nonoscillation,","asymptotics."],
+    "mathsubclass": "34N05, 39A10, 39A12, 39A21",
+    "abstract": "In this paper, we establish some new criteria on the asymptotic behavior of nonoscillatory solutions of higher-order integro-dynamic equations on time scales.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art1/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 5-14",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.5\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.5\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art1.pdf"
+  },
+  {
+    "title": "Professor Zdzisław Kamont - a bibliographical note, and the list of publications",
+    "authors": null,
+    "keywords": null,
+    "mathsubclass": null,
+    "abstract": null,
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art1/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 207-215",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.207\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.207\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art1.pdf"
+  },
+  {
+    "title": "Sufficient optimality criteria and duality for multiobjective variational control problems with B-(p,r)-invex functions",
+    "authors": ["Tadeusz Antczak","Manuel Arana Jiménez"],
+    "keywords": ["multiobjective","variational","control","problems,","efficient","solution,","B-(p,r)-invex","functions,","optimality","conditions,","duality."],
+    "mathsubclass": "65K10, 90C29, 26B25",
+    "abstract": "In this paper, we generalize the notion of $B(p,r)$-invexity introduced by Antczak in [A class of $B(p,r)$-invex functions and mathematical programming, J. Math. Anal. Appl. 286 (2003), 187-206] for scalar optimization problems to the case of a multiobjective variational programming control problem. For such nonconvex vector optimization problems, we prove sufficient optimality conditions under the assumptions that the functions constituting them are $B(p,r)$-invex. Further, for the considered multiobjective variational control problem, its dual multiobjective variational control problem in the sense of Mond-Weir is given and several duality results are established under $B(p,r)$-invexity.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art1/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 665-682",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.665\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.665\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art1.pdf"
+  },
+  {
     "title": "A generalized white noise space approach to stochastic integration for a class of Gaussian stationary increment processes",
     "authors": ["Daniel Alpay","Alon Kipnis"],
     "keywords": ["stochastic","integral,","white","noise","space,","fractional","Brownian","motion."],
@@ -438,6 +548,116 @@
     "description": "Opuscula Math. 44, no. 3 (2024), 323-339",
     "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.323\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.323\u003c/a\u003e",
     "pdf": "pdf/vol-44-no-3-2024/art2.pdf"
+  },
+  {
+    "title": "A note on M₂-edge colorings of graphs",
+    "authors": ["Július Czap"],
+    "keywords": ["edge","coloring,","graph"],
+    "mathsubclass": "05C15",
+    "abstract": "An edge coloring φ of a graph G is called an M₂-edge coloring if |φ(v)| ≤ 2 for every vertex v of G, where φ(v) is the set of colors of edges incident with v. Let K₂(G) denote the maximum number of colors used in an M₂-edge coloring of G. Let G₁, G₂ and G₃ be graphs such that G₁ ⊆ G₂ ⊆ G₃. In this paper we deal with the following question: Assuming that K₂(G₁) = K₂(G₃), does it hold K₂(G₁) = K₂(G₂) = K₂(G₃)?",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-3-2015/art2/",
+    "description": "Opuscula Math. 35, no. 3 (2015), 287-291",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.3.287\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.3.287\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-3-2015/art2.pdf"
+  },
+  {
+    "title": "Kernel conditional quantile estimator under left truncation for functional regressors",
+    "authors": ["Nacéra Helal","Elias Ould Said"],
+    "keywords": ["almost","sure","convergence,","functional","variables,","kernel","estimator,","Lynden-Bell","estimator,","small-ball","probability,","truncated","data"],
+    "mathsubclass": "62G05, 62G07, 62G20, 62M09",
+    "abstract": "Let Y be a random real response which is subject to left-truncation by another random variable T. In this paper, we study the kernel conditional quantile estimation when the covariable X takes values in an infinite-dimensional space. A kernel conditional quantile estimator is given under some regularity conditions, among which in the small-ball probability, its strong uniform almost sure convergence rate is established. Some special cases have been studied to show how our work extends some results given in the literature. Simulations are drawn to lend further support to our theoretical results and assess the behavior of the estimator for finite samples with different rates of truncation and sizes.",
+    "url": "/archive/opuscula_mathematica-vol.36-2016/vol-36-no-1-2016/art2/",
+    "description": "Opuscula Math. 36, no. 1 (2016), 25-48",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2016.36.1.25\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2016.36.1.25\u003c/a\u003e",
+    "pdf": "pdf/vol-36-no-1-2016/art2.pdf"
+  },
+  {
+    "title": "On the summability of divergent power series solutions for certain first-order linear PDEs",
+    "authors": ["Masaki Hibino"],
+    "keywords": ["partial","differential","equation,","divergent","power","series,","summability,","asymptotic","expansion,","analytic","continuation,","integro-differential","equation,","integral","equation"],
+    "mathsubclass": "35C20, 35C10, 35C15",
+    "abstract": "This article is concerned with the study of the Borel summability of divergent power series solutions for certain singular first-order linear partial differential equations of nilpotent type. Our main purpose is to obtain conditions which coefficients of equations should satisfy in order to ensure the Borel summability of divergent solutions. We will see that there is a close affinity between the Borel summability of divergent solutions and global analytic continuation properties for coefficients of equations.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art2/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 595-624",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.595\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.595\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art2.pdf"
+  },
+  {
+    "title": "Oscillation criteria for third order nonlinear delay differential equations with damping",
+    "authors": ["Said R. Grace"],
+    "keywords": ["oscillation,","third","order,","delay","differential","equation"],
+    "mathsubclass": "34C10, 39A10",
+    "abstract": "This note is concerned with the oscillation of third order nonlinear delay differential equations of the form (r2(t)(r1(t)y'(t)))' + p(t)y'(t) + q(t)f(y(q(t))) = 0. We improve and unify results from previous papers and present new sufficient conditions for oscillation or convergence to zero of solutions, considering both cases when an associated second order equation is nonoscillatory or oscillatory.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-4-2015/art2/",
+    "description": "Opuscula Math. 35, no. 4 (2015), 485-497",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.4.485\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.4.485\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-4-2015/art2.pdf"
+  },
+  {
+    "title": "Simple eigenvectors of unbounded operators of the type 'normal plus compact'",
+    "authors": ["Michael Gil"],
+    "keywords": ["Hilbert","space,","linear","operators,","eigenvectors,","approximation,","integro-differential","operators,","Schatten-von","Neumann","operators"],
+    "mathsubclass": "47A75, 47B10, 65F15",
+    "abstract": "The paper deals with operators of the form \\(A=S+B\\), where \\(B\\) is a compact operator in a Hilbert space \\(H\\) and \\(S\\) is an unbounded normal one in \\(H\\), having a compact resolvent. We consider approximations of the eigenvectors of \\(A\\), corresponding to simple eigenvalues by the eigenvectors of the operators \\(A_{n}=S+B_{n}\\) (\\(n=1,2,\\ldots\\)), where \\(B_{n}\\) is an \\(n\\)-dimensional operator. In addition, we obtain the error estimate of the approximation.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-2-2015/art2/",
+    "description": "Opuscula Math. 35, no. 2 (2015), 161-169",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.2.161\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.2.161\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-2-2015/art2.pdf"
+  },
+  {
+    "title": "Asymptotic behavior of positive solutions of a semilinear Dirichlet problem in the annulus",
+    "authors": ["Safa Dridi","Bilel Khamessi"],
+    "keywords": ["asymptotic","behavior,","Dirichlet","problem,","Karamata","function,","subsolution,","supersolution"],
+    "mathsubclass": "31C15, 34B27, 35K10",
+    "abstract": "In this paper, we establish existence and asymptotic behavior of a positive classical solution to the following semilinear boundary value problem: $-\\Delta u = q(x)u^\\sigma$ in $\\Omega$, $u_{|\\partial\\Omega} = 0$. Here $\\Omega$ is an annulus in $R^n$, $n \\geq 3$, $\\sigma \u003c 1$ and $q$ is a positive function in $C^{r}_{loc}(\\Omega)$, $0 \u003c r \u003c 1$, satisfying some appropriate assumptions related to Karamata regular variation theory. Our arguments combine a method of sub- and supersolutions with Karamata regular variation theory.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art2/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 21-36",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.21\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.21\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art2.pdf"
+  },
+  {
+    "title": "Constant-sign solutions for a nonlinear Neumann problem involving the discrete p-Laplacian",
+    "authors": ["Pasquale Candito","Giuseppina D’Aguí"],
+    "keywords": ["constant-sign","solution,","difference","equations,","Neumann","problem."],
+    "mathsubclass": "39A10, 39A12, 34B15",
+    "abstract": "In this paper, we investigate the existence of constant-sign solutions for a nonlinear Neumann boundary value problem involving the discrete $p$-Laplacian. Our approach is based on an abstract local minimum theorem and truncation techniques.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art2/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 683-690",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.683\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.683\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art2.pdf"
+  },
+  {
+    "title": "Existence and regularity of solutions for hyperbolic functional differential problems",
+    "authors": ["Zdzislaw Kamont"],
+    "keywords": ["functional","differential","equations,","weak","solutions,","Haar","pyramid,","differentiability","with","respect","to","initial","functions."],
+    "mathsubclass": "35R10, 35L60",
+    "abstract": "A generalized Cauchy problem for quasilinear hyperbolic functional differential systems is considered. A theorem on the local existence of weak solutions is proved. The initial problem is transformed into a system of functional integral equations for an unknown function and for their partial derivatives with respect to spatial variables. The existence of solutions for this system is proved by using a method of successive approximations. We show a theorem on the differentiability of solutions with respect to initial functions which is the main result of the paper.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art2/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 217-242",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.217\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.217\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art2.pdf"
+  },
+  {
+    "title": "Existence and uniqueness of the solutions of some degenerate nonlinear elliptic equations",
+    "authors": ["Albo Carlos Cavalheiro"],
+    "keywords": ["degenerate","nonlinear","elliptic","equations,","weighted","Sobolev","spaces."],
+    "mathsubclass": "35J70, 35J60",
+    "abstract": "In this paper we are interested in the existence of solutions for the Dirichlet problem associated with degenerate nonlinear elliptic equations\r\n\r\n$$-\\sum_{j=1}^{n} D_j [\\omega(x)A_j(x,u,\\nabla u)] + b(x,u,\\nabla u)\\omega(x) + g(x)u(x) = f_0(x) - \\sum_{j=1}^{n} D_j f_j(x) \\quad \\text{on} \\quad \\Omega$$\r\n\r\nin the setting of the weighted Sobolev spaces $W^{1,p}_0(\\Omega,\\omega)$.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art2/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 15-28",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.15\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.15\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art2.pdf"
+  },
+  {
+    "title": "On the existence of positive periodic solutions for totally nonlinear neutral differential equations of the second-order with functional delay",
+    "authors": ["Emmanuel K. Essel","Ernest Yankson"],
+    "keywords": ["Krasnoselskii,","neutral,","positive","periodic","solution."],
+    "mathsubclass": "34K20, 45J05, 45D05",
+    "abstract": "We prove that the totally nonlinear second-order neutral differential equation\r\n\r\n\\[\\frac{d^2}{dt^2} z(t) + p(t) \\frac{d}{dt} z(t) + q(t) h(z(t)) = \\frac{d}{dt} (t, z(t - \\tau(t))) + f(t, p(z(t)), g(z(t - \\tau(t))))\\]\r\n\r\nhas positive periodic solutions by employing the Krasnoselskii-Burton hybrid fixed point theorem.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art2/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 469-481",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.469\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.469\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art2.pdf"
   },
   {
     "title": "Global existence and asymptotic behavior for a nonlinear degenerate SIS model",
@@ -847,6 +1067,116 @@
     "pdf": "pdf/vol-44-no-3-2024/art3.pdf"
   },
   {
+    "title": "Frames and factorization of graph Laplacians",
+    "authors": ["Palle Jorgensen","Feng Tian"],
+    "keywords": ["unbounded","operators,","deficiency-indices,","Hilbert","space,","boundary","values,","weighted","graph,","reproducing","kernel,","Dirichlet","form,","graph","Laplacian,","resistance","network,","harmonic","analysis,","frame,","Parseval","frame,","Friedrichs","extension,","reversible","random","walk,","resistance","distance,","energy","Hilbert","space"],
+    "mathsubclass": "47L60, 46N30, 46N50, 42C15, 65R10, 05C50, 05C75, 31C20, 46N20, 22E70, 31A15, 58J65, 81S25",
+    "abstract": "Using functions from electrical networks (graphs with resistors assigned to edges), we prove existence (with explicit formulas) of a canonical Parseval frame in the energy Hilbert space \\(\\mathcal{H}_E\\) of a prescribed infinite (or finite) network. Outside degenerate cases, our Parseval frame is not an orthonormal basis. We apply our frame to prove a number of explicit results. With our Parseval frame and related closable operators in \\(\\mathcal{H}_E\\) we characterize the Friedrichs extension of the \\(\\mathcal{H}_E\\)-graph Laplacian. We consider infinite connected network-graphs \\(G=(V,E)\\), \\(V\\) for vertices, and \\(E\\) for edges. To every conductance function \\(c\\) on the edges \\(E\\) of \\(G\\), there is an associated pair \\((\\mathcal{H}_E,\\Delta)\\) where \\(\\mathcal{H}_E\\) in an energy Hilbert space, and \\(\\Delta (= \\Delta_c)\\) is the \\(c\\)-Graph Laplacian; both depending on the choice of conductance function \\(c\\). When a conductance function is given, there is a current-induced orientation on the set of edges and an associated natural Parseval frame in \\(\\mathcal{H}_E\\) consisting of dipoles. Now \\(\\Delta\\) is a well-defined semibounded Hermitian operator in both of the Hilbert \\(l^2(V)\\) and \\(\\mathcal{H}_E\\). It is known to automatically be essentially selfadjoint as an \\(l^2(V)\\)-operator, but generally not as an \\(\\mathcal{H}_E\\) operator. Hence as an \\(\\mathcal{H}_E\\) operator it has a Friedrichs extension. In this paper we offer two results for the Friedrichs extension: a characterization and a factorization. The latter is via \\(l^2(V)\\).",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-3-2015/art3/",
+    "description": "Opuscula Math. 35, no. 3 (2015), 293-332",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.3.293\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.3.293\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-3-2015/art3.pdf"
+  },
+  {
+    "title": "On a linear-quadratic problem with Caputo derivative",
+    "authors": ["Dariusz Idczak","Stanislaw Walczak"],
+    "keywords": ["fractional","Caputo","derivative,","linear-quadratic","problem,","existence","and","uniqueness","of","a","solution,","maximum","principle,","gradient","method,","projection","of","the","gradient","method"],
+    "mathsubclass": "26A33, 49J15, 49K15, 49M37",
+    "abstract": "In this paper, we study a linear-quadratic optimal control problem with a fractional control system containing a Caputo derivative of unknown function. First, we derive the formulas for the differential and gradient of the cost functional under given constraints. Next, we prove an existence result and derive a maximum principle. Finally, we describe the gradient and projection of the gradient methods for the problem under consideration.",
+    "url": "/archive/opuscula_mathematica-vol.36-2016/vol-36-no-1-2016/art3/",
+    "description": "Opuscula Math. 36, no. 1 (2016), 49-68",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2016.36.1.49\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2016.36.1.49\u003c/a\u003e",
+    "pdf": "pdf/vol-36-no-1-2016/art3.pdf"
+  },
+  {
+    "title": "On k-summability of formal solutions for certain partial differential operators with polynomial coefficients",
+    "authors": ["Kunio Ichinobe","Masatake Miyake"],
+    "keywords": ["k-summability,","Cauchy","problem,","power","series","solutions,","successive","approximation"],
+    "mathsubclass": "35C10, 35G10",
+    "abstract": "We study the \\( k \\)-summability of divergent formal solutions for the Cauchy problem of certain linear partial differential operators with coefficients which are polynomial in \\( t \\). We employ the method of successive approximation in order to construct the formal solutions and to obtain the properties of analytic continuation of the solutions of convolution equations and their exponential growth estimates.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art3/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 625-653",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.625\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.625\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art3.pdf"
+  },
+  {
+    "title": "On potential kernels associated with random dynamical systems",
+    "authors": ["Mohamed Hmissi","Farida Mokchaha","Aya Hmissi"],
+    "keywords": ["dynamical","system,","random","dynamical","system,","random","differential","equation,","stochastic","differential","equation,","potential","kernel,","domination","principle,","Lyapunov","function"],
+    "mathsubclass": "37H99, 37B25, 37B35, 47D07",
+    "abstract": "Let (θ,φ) be a continuous random dynamical system. The associated potential kernel V is given by Vf(ω, x) = ∫_0^∞ f(θ_t ω, φ(t, ω)x) dt. We prove the equivalence between the properness of the potential kernel and the existence of a global Lyapunov function. This generalizes a known deterministic result and provides a constructive method for Lyapunov functions in gradient-like random systems.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-4-2015/art3/",
+    "description": "Opuscula Math. 35, no. 4 (2015), 499-515",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.4.499\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.4.499\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-4-2015/art3.pdf"
+  },
+  {
+    "title": "On b-vertex and b-edge critical graphs",
+    "authors": ["Noureddine Ikhlef Eschouf","Mostafa Bildia"],
+    "keywords": ["b-coloring,","b-chromatic","number,","critical","graphs"],
+    "mathsubclass": "05C15",
+    "abstract": "A \\( b \\)-coloring is a coloring of the vertices of a graph such that each color class contains a vertex that has a neighbor in all other color classes, and the \\( b \\)-chromatic number \\( b(G) \\) of a graph \\( G \\) is the largest integer \\( k \\) such that \\( G \\) admits a \\( b \\)-coloring with \\( k \\) colors. A simple graph \\( G \\) is called \\( b^+ \\)-vertex (edge) critical if the removal of any vertex (edge) of \\( G \\) increases its \\( b \\)-chromatic number. In this note, we explain some properties in \\( b^+ \\)-vertex (edge) critical graphs, and we conclude with two open problems.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-2-2015/art3/",
+    "description": "Opuscula Math. 35, no. 2 (2015), 171-180",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.2.171\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.2.171\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-2-2015/art3.pdf"
+  },
+  {
+    "title": "Characterizations and decomposition of strongly Wright-convex functions of higher order",
+    "authors": ["Attila Gilányi","Nelson Merentes","Kazimierz Nikodem","Zsolt Páles"],
+    "keywords": ["generalized","convex","function,","Wright-convex","function","of","higher","order,","strongly","convex","function"],
+    "mathsubclass": "26A51, 39B62",
+    "abstract": "Motivated by results on strongly convex and strongly Jensen-convex functions by R. Ger and K. Nikodem in [Strongly convex functions of higher order, Nonlinear Anal. 74 (2011), 661-665] we investigate strongly Wright-convex functions of higher order and we prove decomposition and characterization theorems for them. Our decomposition theorem states that a function $f$ is strongly Wright-convex of order $n$ if and only if it is of the form $f(x) = g(x) + p(x) + cx^{n+1}$, where $g$ is a (continuous) $n$-convex function and $p$ is a polynomial function of degree $n$. This is a counterpart of Ng's decomposition theorem for Wright-convex functions. We also characterize higher order strongly Wright-convex functions via generalized derivatives.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art3/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 37-49",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.37\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.37\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art3.pdf"
+  },
+  {
+    "title": "$p$-adic Banach space operators and adelic Banach space operators",
+    "authors": ["Ilwoo Cho"],
+    "keywords": ["prime","fields,","$p$-adic","number","fields,","adele","ring,","$p$-adic","Banach","spaces,","adelic","Banach","space,","$p$-adic","operators,","adelic","operators."],
+    "mathsubclass": "05E15, 11G15, 11R47, 46L10, 47L30, 47L55",
+    "abstract": "In this paper, we study non-Archimedean Banach $x$-algebras $\\mathfrak{M}_p$ over the $p$-adic number fields $\\mathbb{Q}_p$, and $\\mathfrak{M}_Q$ over the adele ring $\\mathbb{A}_Q$. We call elements of $\\mathfrak{M}_p$, $p$-adic operators, for all primes $p$, respectively, call those of $\\mathfrak{M}_Q$, adelic operators. We characterize $\\mathfrak{M}_Q$ in terms of $\\mathfrak{M}_p$'s. Based on such a structure theorem of $\\mathfrak{M}_Q$, we introduce some interesting $p$-adic operators and adelic operators.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art3/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 29-65",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.29\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.29\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art3.pdf"
+  },
+  {
+    "title": "Local error structures and order conditions in terms of Lie elements for exponential splitting schemes",
+    "authors": ["Winfried Auzinger","Wolfgang Herfort"],
+    "keywords": ["exponential","splitting","schemes,","local","error,","defect,","order","conditions,","free","Lie","algebra."],
+    "mathsubclass": "17B08, 17B80, 65J08, 65M15, 68W30",
+    "abstract": "We discuss the structure of the local error of exponential operator splitting methods. In particular, it is shown that the leading error term is a Lie element, i.e., a linear combination of higher-degree commutators of the given operators. This structural assertion can be used to formulate a simple algorithm for the automatic generation of a minimal set of polynomial equations representing the order conditions, for the general case as well as in symmetric settings.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art3/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 243-256",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.243\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.243\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art3.pdf"
+  },
+  {
+    "title": "On reflectionless equi-transmitting matrices",
+    "authors": ["Pavel Kurasov","Rao Ogik","Amar Rauf"],
+    "keywords": ["quantum","graphs,","vertex","scattering","matrix,","equi-transmitting","matrices."],
+    "mathsubclass": "34L25, 81U40, 35P25, 81V99",
+    "abstract": "Reflectionless equi-transmitting unitary matrices are studied in connection to matching conditions in quantum graphs. All possible such matrices of size 6 are described explicitly. It is shown that such matrices form 30 six-parameter families intersected along 12 five-parameter families closely connected to conference matrices.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art3/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 483-501",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.483\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.483\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art3.pdf"
+  },
+  {
+    "title": "Remarks for one-dimensional fractional equations",
+    "authors": ["Massimiliano Ferrara","Giovanni Molica Bisci"],
+    "keywords": ["fractional","differential","equations,","Caputo","fractional","derivatives,","variational","methods."],
+    "mathsubclass": "34A08, 26A33, 35A15",
+    "abstract": "In this paper we study a class of one-dimensional Dirichlet boundary value problems involving the Caputo fractional derivatives. The existence of infinitely many solutions for this equations is obtained by exploiting a recent abstract result. Concrete examples of applications are presented.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art3/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 691-698",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.691\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.691\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art3.pdf"
+  },
+  {
     "title": "Existence of solution of sub-elliptic equations on the Heisenberg group with critical growth and double singularities",
     "authors": ["Jianqing Chen","Eugénio M. Rocha"],
     "keywords": ["sub-elliptic","equations,","Heisenberg","group,","Least","energy","solutions."],
@@ -1254,6 +1584,116 @@
     "pdf": "pdf/vol-44-no-3-2024/art4.pdf"
   },
   {
+    "title": "Ruin probability in a risk model with variable premium intensity and risky investments",
+    "authors": ["Yuliya Mishura","Mykola Perestyuk","Olena Ragulina"],
+    "keywords": ["risk","process,","infinite-horizon","ruin","probability,","variable","premium","intensity,","risky","investments,","exponential","bound,","stochastic","differential","equation,","explosion","time,","existence","and","uniqueness","theorem,","supermartingale","property"],
+    "mathsubclass": "91B30, 60H10, 60G46",
+    "abstract": "We consider a generalization of the classical risk model when the premium intensity depends on the current surplus of an insurance company. All surplus is invested in the risky asset, the price of which follows a geometric Brownian motion. We get an exponential bound for the infinite-horizon ruin probability. To this end, we allow the surplus process to explode and investigate the question concerning the probability of explosion of the surplus process between claim arrivals.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-3-2015/art4/",
+    "description": "Opuscula Math. 35, no. 3 (2015), 333-352",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.3.333\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.3.333\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-3-2015/art4.pdf"
+  },
+  {
+    "title": "Positive solutions of boundary value problems with nonlinear nonlocal boundary conditions",
+    "authors": ["Seshadev Padhi","Smita Pati","D. K. Hota"],
+    "keywords": ["positive","solutions,","Leggett-Williams","fixed","point","theorem,","nonlinear","boundary","conditions"],
+    "mathsubclass": "34B08, 34B18, 34B15, 34B10",
+    "abstract": "We consider the existence of at least three positive solutions of a nonlinear first order problem with a nonlinear nonlocal boundary condition given by x'(t) = r(t)x(t) + ∑_{j=1}^{m} f_{j}(t,x(t)), t ∈ [0,1], λ x(0) = x(1) + ∑_{j=1}^{m} λ_{j}(τ_{j},x(τ_{j})), τ_{j} ∈ [0,1], where r: [0,1] → [0,∞) is continuous; the nonlocal points satisfy 0 ≤ τ_{1} \u003c τ_{2} \u003c … \u003c τ_{n} ≤ 1, the nonlinear function f_{i} and τ_{j} are continuous mappings from [0,1] × [0,∞) → [0,∞) for i = 1, 2, …, m and j = 1, 2, …, n respectively, and λ \u003e 0 is a positive parameter.",
+    "url": "/archive/opuscula_mathematica-vol.36-2016/vol-36-no-1-2016/art4/",
+    "description": "Opuscula Math. 36, no. 1 (2016), 69-79",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2016.36.1.69\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2016.36.1.69\u003c/a\u003e",
+    "pdf": "pdf/vol-36-no-1-2016/art4.pdf"
+  },
+  {
+    "title": "On mean-value properties for the Dunkl polyharmonic functions",
+    "authors": ["Grzegorz Lysik"],
+    "keywords": ["Dunkl","Laplacian,","Dunkl","polyharmonic","functions,","mean-values,","Pizzetti","formula"],
+    "mathsubclass": "31A30, 31B30, 33C52",
+    "abstract": "We derive differential relations between the Dunkl spherical and solid means of continuous functions. Next we use the relations to give inductive proofs of mean-value properties for the Dunkl polyharmonic functions and their converses.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art4/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 655-664",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.655\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.655\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art4.pdf"
+  },
+  {
+    "title": "Notes on the nonlinear dependence of a multiscale coupled system with respect to the interface",
+    "authors": ["Fernando A. Morales"],
+    "keywords": ["multiscale","coupled","systems,","interface","geometric","perturbations,","variational","formulations,","nonlinear","dependence"],
+    "mathsubclass": "58F15, 58F17, 53C35",
+    "abstract": "This work studies the dependence of the solution on interface geometric perturbations in a multiscaled coupled Darcy flow system. A set of admissible perturbations and convergence sense is presented. Sufficient conditions for strong convergence are given. The rate of convergence is fully solved in 1D using orthogonal decompositions and analyzed in simple multi-D settings via nonlinear operators induced by geometric perturbations.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-4-2015/art4/",
+    "description": "Opuscula Math. 35, no. 4 (2015), 517-546",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.4.517\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.4.517\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-4-2015/art4.pdf"
+  },
+  {
+    "title": "Bounded, asymptotically stable, and \\(L^1\\) solutions of Caputo fractional differential equations",
+    "authors": ["Muhammad N. Islam"],
+    "keywords": ["Caputo","fractional","differential","equations,","Volterra","integral","equations,","weakly","singular","kernel,","Schauder","fixed","point","theorem,","Liapunov's","method"],
+    "mathsubclass": "34K20, 45J05, 45D05",
+    "abstract": "The existence of bounded solutions, asymptotically stable solutions, and \\(L^1\\) solutions of a Caputo fractional differential equation has been studied in this paper. The results are obtained from an equivalent Volterra integral equation which is derived by inverting the fractional differential equation. The kernel function of this integral equation is weakly singular and hence the standard techniques that are normally applied on Volterra integral equations do not apply here. This hurdle is overcomed using a resolvent equation and then applying some known properties of the resolvent. In the analysis Schauder's fixed point theorem and Liapunov's method have been employed. The existence of bounded solutions are obtained employing Schauder's theorem, and then it is shown that these solutions are asymptotically stable by a definition found in [C. Avramescu, C. Vladimirescu, On the existence of asymptotically stable solution of certain integral equations, Nonlinear Anal. 66 (2007), 472-483]. Finally, the \\(L^1\\) properties of solutions are obtained using Liapunov's method.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-2-2015/art4/",
+    "description": "Opuscula Math. 35, no. 2 (2015), 181-190",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.2.181\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.2.181\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-2-2015/art4.pdf"
+  },
+  {
+    "title": "Strongly increasing solutions of cyclic systems of second order differential equations with power-type nonlinearities",
+    "authors": ["Jaroslav Jaroš","Kusano Takasi"],
+    "keywords": ["systems","of","differential","equations,","positive","solutions,","asymptotic","behavior,","regularly","varying","functions"],
+    "mathsubclass": "34C11, 26A12",
+    "abstract": "We consider $n$-dimensional cyclic systems of second order differential equations $(p_{i}(t)|x_{i}^{n}|^{\\alpha_{i}-1}x_{j}^{r})^* = q_{i}(t)|x_{i+1}|^{\\beta_{i}-1}x_{i+1}$, $i = 1,\\ldots,n$, $(x_{n+1} = x_1)$ under the assumption that the positive constants $\\alpha_i$ and $\\beta_i$ satisfy $\\alpha_1...\\alpha_n \u003e \\beta_1...\\beta_n$ and $p_{i}(t)$ and $q_{i}(t)$ are regularly varying functions, and analyze positive strongly increasing solutions of system $(*)$ in the framework of regular variation. We show that the situation for the existence of regularly varying solutions of positive indices for $(*)$ can be characterized completely, and moreover that the asymptotic behavior of such solutions is governed by the unique formula describing their order of growth precisely. We give examples demonstrating that the main results for $(*)$ can be applied to some classes of partial differential equations with radial symmetry to acquire accurate information about the existence and the asymptotic behavior of their radial positive strongly increasing solutions.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art4/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 47-69",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.47\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.47\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art4.pdf"
+  },
+  {
+    "title": "Approximating fixed points of a countable family of strict pseudocontractions in Banach spaces",
+    "authors": ["Prasit Cholamjiak"],
+    "keywords": ["common","fixed","points,","convergence","theorem,","modified","Mann","iteration,","strict","pseudocontractions,","$q$-uniformly","smooth","Banach","spaces."],
+    "mathsubclass": "47H09, 47H10",
+    "abstract": "We prove the strong convergence of the modified Mann-type iterative scheme for a countable family of strict pseudocontractions in $q$-uniformly smooth Banach spaces. Our results mainly improve and extend the results announced in [Y. Yao, H. Zhou, Y.-C. Liou, Strong convergence of a modified Krasnoselski-Mann iterative algorithm for non-expansive mappings, J. Appl. Math. Comput. 29 (2009), 383–389].\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art4/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 67-79",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.67\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.67\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art4.pdf"
+  },
+  {
+    "title": "Dynamic programming approach to structural optimization problem - numerical algorithm",
+    "authors": ["Plott Fulmański","Andrzej Nowakowski","Jan Pustelnik"],
+    "keywords": ["sufficient","optimality","condition,","elliptic","equations,","optimal","shape","control,","structural","optimization,","stationary","Navier-Stokes","equations,","dynamic","programming,","numerical","approximation."],
+    "mathsubclass": "49K20, 49J20, 93C20, 35L20",
+    "abstract": "In this paper a new shape optimization algorithm is presented. As a model application we consider state problems related to fluid mechanics, namely the Navier-Stokes equations for viscous incompressible fluids. The general approach to the problem is described. Next, transformations to classical optimal control problems are presented. Then, the dynamic programming approach is used and sufficient conditions for the shape optimization problem are given. A new numerical method to find the approximate value function is developed.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art4/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 699-724",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.699\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.699\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art4.pdf"
+  },
+  {
+    "title": "Existence and controllability results for damped second order impulsive functional differential systems with state-dependent delay",
+    "authors": ["M. Mallika Arjunan","N. Y. Nadaf"],
+    "keywords": ["damped","second","order","differential","equations,","impulsive","differential","equations,","controllability,","state-dependent","delay,","cosine","function,","mild","solution,","fixed","point."],
+    "mathsubclass": "34A37, 93B05",
+    "abstract": "In this paper, we investigate the existence and controllability of mild solutions for a damped second order impulsive functional differential equation with state-dependent delay in Banach spaces. The results are obtained by using Sadovskii's fixed point theorem combined with the theories of a strongly continuous cosine family of bounded linear operators. Finally, an example is provided to illustrate the main results.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art4/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 503-522",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.503\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.503\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art4.pdf"
+  },
+  {
+    "title": "On reconstructing an unknown coordinate of a nonlinear system of differential equations",
+    "authors": ["Marina Blizorukova","Alexander Kuklin","Vyacheslav Maksimov"],
+    "keywords": ["ordinary","differential","equations,","inverse","problems."],
+    "mathsubclass": "34A55, 49N45",
+    "abstract": "The paper discusses a method of auxiliary controlled models and the application of this method to solving problems of dynamical reconstruction of an unknown coordinate in a nonlinear system of differential equations. The solving algorithm, which is stable with respect to informational noises and computational errors, is presented.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art4/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 257-269",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.257\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.257\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art4.pdf"
+  },
+  {
     "title": "A note on k-Roman graphs",
     "authors": ["Ahmed Bouchou","Mostafa Bildia","Mustapha Chellali"],
     "keywords": ["Roman","k-domination,","k-Roman","graph."],
@@ -1659,6 +2099,116 @@
     "description": "Opuscula Math. 44, no. 3 (2024), 373-390",
     "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2024.44.3.373\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2024.44.3.373\u003c/a\u003e",
     "pdf": "pdf/vol-44-no-3-2024/art5.pdf"
+  },
+  {
+    "title": "Spectra of some selfadjoint Jacobi operators in the double root case",
+    "authors": ["Wojciech Motyka"],
+    "keywords": ["Jacobi","matrices,","double","root","case,","asymptotic","behavior,","subordination","theory,","absolutely","continuous","spectrum,","discrete","spectrum"],
+    "mathsubclass": "39A10, 39A70, 47B36, 47B25",
+    "abstract": "In this paper we prove a mixed spectrum of Jacobi operators defined by λₙ = s(n)(1 + x(n)) and qₙ = -2s(n)(1 + y(n)), where (s(n)) is a real unbounded sequence, (x(n)) and (y(n)) are some perturbations.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-3-2015/art5/",
+    "description": "Opuscula Math. 35, no. 3 (2015), 353-370",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.3.353\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.3.353\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-3-2015/art5.pdf"
+  },
+  {
+    "title": "Eigenvalue problems for anisotropic equations involving a potential on Orlicz-Sobolev type spaces",
+    "authors": ["Ionela-Loredana Stancut","Iulia Dorotheea Sfircu"],
+    "keywords": ["anisotropic","equations,","eigenvalue","problems,","Orlicz-Sobolev","spaces,","variable","exponent"],
+    "mathsubclass": "35J20, 35J60, 35J70, 46E30, 47J10",
+    "abstract": "In this paper we consider an eigenvalue problem that involves a nonhomogeneous elliptic operator, variable growth conditions and a potential V on a bounded domain in R^N (N ≥ 3) with a smooth boundary. We establish three main results with various assumptions. The first one asserts that any λ \u003e 0 is an eigenvalue of our problem. The second theorem states the existence of a constant λ_s \u003e 0 such that any λ ∈ (0,λ_s] is an eigenvalue, while the third theorem claims the existence of a constant λ^* \u003e 0 such that every λ ∈ [λ^*, ∞) is an eigenvalue. The proofs rely on variational arguments and the theory of Orlicz-Sobolev spaces.",
+    "url": "/archive/opuscula_mathematica-vol.36-2016/vol-36-no-1-2016/art5/",
+    "description": "Opuscula Math. 36, no. 1 (2016), 81-103",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2016.36.1.81\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2016.36.1.81\u003c/a\u003e",
+    "pdf": "pdf/vol-36-no-1-2016/art5.pdf"
+  },
+  {
+    "title": "Katz's middle convolution and Yokoyama's extending operation",
+    "authors": ["Toshio Oshima"],
+    "keywords": ["Fuchsian","systems,","middle","convolution"],
+    "mathsubclass": "34M35, 34M40, 34M15",
+    "abstract": "We give a concrete relation between Katz's middle convolution and Yokoyama's extension and show the equivalence of both algorithms using these operations for the reduction of Fuchsian systems on the Riemann sphere.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art5/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 665-688",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.665\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.665\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art5.pdf"
+  },
+  {
+    "title": "Optimal consumption problem in the Vasicek model",
+    "authors": ["Jakub Trybula"],
+    "keywords": ["stochastic","control,","interest","rate","model,","optimal","consumption,","HJB","equation"],
+    "mathsubclass": "93E20, 60H30",
+    "abstract": "We consider the problem of an optimal consumption strategy on the infinite time horizon based on the hyperbolic absolute risk aversion utility when the interest rate is an Ornstein-Uhlenbeck process. Using the method of subsolution and supersolution we obtain the existence of solutions of the dynamic programming equation. We illustrate the paper with a numerical example.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-4-2015/art5/",
+    "description": "Opuscula Math. 35, no. 4 (2015), 547-560",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.4.547\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.4.547\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-4-2015/art5.pdf"
+  },
+  {
+    "title": "A new characterization of convex \\(\\varphi\\)-functions with a parameter",
+    "authors": ["Bartosz Micherda"],
+    "keywords": ["Orlicz-Musielak","space,","convex","function,","isotonic","operator,","projection","operator,","antiprojection","operator"],
+    "mathsubclass": "41A65, 39B62, 46E30",
+    "abstract": "We show that, under some additional assumptions, all projection operators onto latticially closed subsets of the Orlicz-Musielak space generated by \\(\\Phi\\) are isotonic if and only if \\(\\Phi\\) is convex with respect to its second variable. A dual result of this type is also proven for antiprojections. This gives the positive answer to the problem presented in Opuscula Mathematica in 2012.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-2-2015/art5/",
+    "description": "Opuscula Math. 35, no. 2 (2015), 191-197",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.2.191\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.2.191\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-2-2015/art5.pdf"
+  },
+  {
+    "title": "Controllability of semilinear systems with fixed delay in control",
+    "authors": ["Surendra Kumar","N. Sukavanam"],
+    "keywords": ["first","order","delay","system,","mild","solution,","fixed","point,","exact","controllability"],
+    "mathsubclass": "93B05",
+    "abstract": "In this paper, different sufficient conditions for exact controllability of semilinear systems with a single constant point delay in control are established in infinite dimensional space. The existence and uniqueness of mild solution is also proved under suitable assumptions. In particular, local Lipschitz continuity of a nonlinear function is used. To illustrate the developed theory some examples are given.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art5/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 71-83",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.71\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.71\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art5.pdf"
+  },
+  {
+    "title": "Conjugate functions, L^P-norm like functionals, the generalized Hölder inequality, Minkowski inequality and subhomogeneity",
+    "authors": ["Janusz Matkowski"],
+    "keywords": ["L^p-norm","like","functional,","homogeneity,","subhomogeneity,","subadditivity,","the","converses","of","Minkowski","and","Hölder","inequalities,","generalization","of","the","Minkowski","and","Hölder","inequalities,","conjugate","(complementary)","functions,","Young","conjugate","functions,","convex","function,","geometrically","convex","function,","Wright","convex","function,","functional","equation."],
+    "mathsubclass": "26D15, 26A51, 39B22, 39B62, 46E25, 46E30",
+    "abstract": "For \\( h: (0, \\infty) \\to \\mathbb{R} \\), the function \\( h^*(t) := th(\\frac{t}{2}) \\) is called (*)-conjugate to \\( h \\). This conjugacy is related to the Hölder and Minkowski inequalities. Several properties of (*)-conjugacy are proved. If \\(\\varphi\\) and \\(\\psi\\) are bijections of \\((0, \\infty)\\) then \\( (\\varphi^{-1})^* = \\left( \\left[ (\\varphi^*)^{-1} \\right]^* \\right)^{-1} \\). Under some natural rate of growth conditions at \\(0\\) and \\(\\infty\\), if \\(\\varphi\\) is increasing, convex, geometrically convex, then \\( \\left[ (\\varphi^{-1})^* \\right]^{-1} \\) has the same properties. We show that the Young conjugate functions do not have this property. For a measure space \\( (\\Omega, \\Sigma, \\mu) \\) denote by \\( S = S(\\Omega, \\Sigma, \\mu) \\) the space of all \\(\\mu\\)-integrable simple functions \\( x : \\Omega \\to \\mathbb{R} \\). Given a bijection \\(\\varphi : (0, \\infty) \\to (0, \\infty)\\), define \\( P_{\\varphi} : S \\to [0, \\infty) \\) by \r\n\r\n\\[P_{\\varphi}(x) := \\varphi^{-1} \\left( \\int_{\\Omega(x)} \\varphi \\circ |x| \\, d\\mu \\right),\\]\r\n\r\nwhere \\(\\Omega(x)\\) is the support of \\( x \\). Applying some properties of the (*) operation, we prove that if \\(\\int_{\\Omega} x \\varphi \\circ P_{\\varphi}(x) P_{\\varphi}(y) \\) where \\(\\varphi^{-1}\\) and \\(\\psi^{-1}\\) are conjugate, then \\(\\varphi\\) and \\(\\psi\\) are conjugate power functions.\r\n\r\nThe existence of nonpower bijections \\(\\varphi\\) and \\(\\psi\\) with conjugate inverse functions \\(\\psi = \\left[ (\\varphi^{-1})^* \\right]^{-1} \\) such that \\( P_{\\varphi} \\) and \\( P_{\\psi} \\) are subadditive and subhomogeneous is considered.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art5/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 523-560",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.523\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.523\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art5.pdf"
+  },
+  {
+    "title": "On a new critical point theorem and some applications to discrete equations",
+    "authors": ["Marek Galewski","Elżbieta Galewska"],
+    "keywords": ["critical","point,","multiplicity,","discrete","equation,","Fenchel-Young","transform."],
+    "mathsubclass": "49J27, 39A12, 39A10",
+    "abstract": "Using the Fenchel-Young duality we derive a new critical point theorem. We illustrate our results with solvability for certain discrete BVP. Multiple solutions are also considered.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art5/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 725-732",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.725\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.725\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art5.pdf"
+  },
+  {
+    "title": "On a singular nonlinear Neumann problem",
+    "authors": ["Jan Chabrowski"],
+    "keywords": ["Neumann","problem,","critical","Sobolev","exponent,","Hardy-Sobolev","exponent","Neumann","problem."],
+    "mathsubclass": "35B33, 35J20, 35J65",
+    "abstract": "We investigate the solvability of the Neumann problem involving two critical exponents: Sobolev and Hardy-Sobolev. We establish the existence of a solution in three cases:\r\n(i) \\( 2 \u003c p + 1 \\leq 2^*(s) \\),\r\n(ii) \\( p + 1 = 2^*(s) \\) and\r\n(iii) \\( 2^*(s) \u003c p + 1 \\leq 2^* \\), where\r\n\\( 2^*(s) = \\frac{2(N-s)}{N-2} \\),\r\n\\( 0 \u003c s \u003c 2 \\), and\r\n\\( 2^* = \\frac{2N}{N-3} \\) denote the critical Hardy-Sobolev exponent and the critical Sobolev exponent, respectively.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art5/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 271-290",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.271\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.271\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art5.pdf"
+  },
+  {
+    "title": "Problem of detecting inclusions by topological optimization",
+    "authors": ["I. Faye","M. Ndiaye","I. Ly","D. Seck"],
+    "keywords": ["topological","optimization,","topological","gradient,","shape","optimization,","detection","of","inclusions,","numerical","simulations."],
+    "mathsubclass": "74P05, 74P10, 74P15, 65F30, 49Q10",
+    "abstract": "In this paper we propose a new method to detect inclusions. The proposed method is based on shape and topological optimization tools. In fact after presenting the problem, we use topological optimization tools to detect inclusions in the domain. Numerical results are presented.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art5/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 81-96",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.81\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.81\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art5.pdf"
   },
   {
     "title": "A unified representation of some starlike and convex harmonic functions with negative coefficients",
@@ -2079,6 +2629,116 @@
     "pdf": "pdf/vol-44-no-3-2024/art6.pdf"
   },
   {
+    "title": "On the eigenvalues of a 2×2 block operator matrix",
+    "authors": ["Mukhiddin I. Muminov","Tulkin H. Rasulov"],
+    "keywords": ["block","operator","matrix,","Fock","space,","discrete","and","essential","spectra,","Birman-Schwinger","principle,","the","Efimov","effect,","discrete","spectrum","asymptotics,","embedded","eigenvalues"],
+    "mathsubclass": "81Q10, 35P20, 47N50",
+    "abstract": "A 2×2 block operator matrix H acting in the direct sum of one- and two-particle subspaces of a Fock space is considered. The existence of infinitely many negative eigenvalues of H₂₂ (the second diagonal entry of H) is proved for the case where both of the associated Friedrichs models have a zero energy resonance. For the number N(z) of eigenvalues of H₂₂ lying below z \u003c 0, the following asymptotics is found lim_{z→-0} N(z) |log |z||⁻¹ = U₀ (0 \u003c U₀ \u003c ∞). Under some natural conditions the infiniteness of the number of eigenvalues located respectively inside, in the gap, and below the bottom of the essential spectrum of H is proved.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-3-2015/art6/",
+    "description": "Opuscula Math. 35, no. 3 (2015), 371-395",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.3.371\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.3.371\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-3-2015/art6.pdf"
+  },
+  {
+    "title": "On the existence of solutions for a class of nonlinear fractional differential equations with integral boundary conditions",
+    "authors": ["Yuji Liu","Wei Xu","Yansheng Liu"],
+    "keywords": ["fractional","differential","equation,","integral","boundary","condition,","coincidence","degree","theory,","existence","of","solutions"],
+    "mathsubclass": "34A08, 34B10, 34B15, 47H11",
+    "abstract": "In this paper, we study the existence of solutions for a class of nonlinear fractional differential equations with integral boundary conditions. By using the coincidence degree theory, we obtain some new existence results. The main results are well illustrated with an example.",
+    "url": "/archive/opuscula_mathematica-vol.36-2016/vol-36-no-1-2016/art6/",
+    "description": "Opuscula Math. 36, no. 1 (2016), 105-118",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2016.36.1.105\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2016.36.1.105\u003c/a\u003e",
+    "pdf": "pdf/vol-36-no-1-2016/art6.pdf"
+  },
+  {
+    "title": "Maillet type theorem for singular first order nonlinear partial differential equations of totally characteristic type. Part II",
+    "authors": ["Akira Shirai"],
+    "keywords": ["singular","partial","differential","equations,","totally","characteristic","type,","nilpotent","vector","field,","formal","solution,","Gevrey","order,","Maillet","type","theorem"],
+    "mathsubclass": "35F20, 35A20, 35C10",
+    "abstract": "In this paper, we study the following nonlinear first order partial differential equation: \\( f(t,x,u,\\partial_{t}u,\\partial_{x}u) = 0 \\) with \\( u(0,x) = 0 \\). The purpose of this paper is to determine the estimate of Gevrey order under the condition that the equation is singular of a totally characteristic type. The Gevrey order is indicated by the rate of divergence of a formal power series. This paper is a continuation of the previous papers [Convergence of formal solutions of singular first order nonlinear partial differential equations of totally characteristic type, Funkcial. Ekvac. 45 (2002), 187-208] and [Maillet type theorem for singular first order nonlinear partial differential equations of totally characteristic type, Surikaiseki Kenkyujo Kokyuroku, Kyoto University 1431 (2005), 94-106]. Especially the last-mentioned paper is regarded as part I of this paper.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art6/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 689-712",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.689\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.689\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art6.pdf"
+  },
+  {
+    "title": "Fixed Point Theory for Lipschitzian-type Mappings with Applications",
+    "authors": ["R.P. Agarwal","D. O Regan","D.R. Sahu"],
+    "keywords": ["fixed","point","theory,","Lipschitzian","mappings,","applications,","differential","equations,","integral","equations,","optimization"],
+    "mathsubclass": "47H10, 47J25, 49M05, 65J15",
+    "abstract": "This book provides a comprehensive treatment of fixed point theory for Lipschitzian-type mappings, covering various aspects such as existence, uniqueness, and approximation of fixed points. It includes applications to differential equations, integral equations, and optimization problems.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-4-2015/art6/",
+    "description": "Book: Fixed Point Theory for Lipschitzian-type Mappings with Applications, Springer, 2009",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.1007/978-0-387-75818-3\" target=\"_blank\"\u003ehttps://doi.org/10.1007/978-0-387-75818-3\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-4-2015/art6.pdf"
+  },
+  {
+    "title": "Decisiveness of the spectral gaps of periodic Schrödinger operators on the dumbbell-like metric graph",
+    "authors": ["Hiroaki Niikuni"],
+    "keywords": ["quantum","graph,","spectral","gap,","band","structure,","Hill","operator"],
+    "mathsubclass": "34L05, 34L15, 34B45",
+    "abstract": "In this paper, we consider periodic Schrödinger operators on the dumbbell-like metric graph, which is a periodic graph consisting of lines and rings. Let one line and two rings be in the basic period. We see the relationship between the structure of graph and the band-gap spectrum.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-2-2015/art6/",
+    "description": "Opuscula Math. 35, no. 2 (2015), 199-234",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.2.199\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.2.199\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-2-2015/art6.pdf"
+  },
+  {
+    "title": "A note on the existence of positive solutions for a class of singular semipositone systems",
+    "authors": ["Gennaro Infante","Pavel Drábek","Jesús Hernández"],
+    "keywords": ["positive","solution,","semipositone","problem,","singular","system,","fixed","point","index,","cone"],
+    "mathsubclass": "34B15, 34B16, 34B18",
+    "abstract": "We study the existence of positive solutions for the system of second order differential equations $u'' + f(t,u,v) = 0$, $v'' + g(t,u,v) = 0$ in $(0,1)$ with the boundary conditions $u(0) = u(1) = 0$, $v(0) = v(1) = 0$, where the nonlinearities $f$ and $g$ are continuous, may change sign and may be singular at $t = 0$ and $t = 1$. We prove an existence result via a nonlinear alternative of Leray-Schauder type and illustrate it with an example.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art6/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 85-101",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.85\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.85\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art6.pdf"
+  },
+  {
+    "title": "Classical solutions of mixed problems for quasilinear first order PFDEs on a cylindrical domain",
+    "authors": ["Wojciech Czernous"],
+    "keywords": ["partial","functional","differential","equations,","classical","solutions,","local","existence,","characteristics,","cylindrical","domain,","a","priori","estimates."],
+    "mathsubclass": "35R10, 35L45",
+    "abstract": "We abandon the setting of the domain as a Cartesian product of real intervals, customary for first order PFDEs (partial functional differential equations) with initial boundary conditions. We give a new set of conditions on the possibly unbounded domain \\(\\Omega\\) with Lipschitz differentiable boundary. Well-posedness is then reliant on a variant of the normal vector condition. There is a neighbourhood of \\(\\partial\\Omega\\) with the property that if a characteristic trajectory has a point therein, then its every earlier point lies there as well. With local assumptions on coefficients and on the free term, we prove existence and Lipschitz dependence on data of classical solutions on \\((0,\\epsilon)\\times\\Omega\\) to the initial boundary value problem, for small \\(\\epsilon\\). Regularity of solutions matches this domain, and the proof uses the Banach fixed-point theorem. Our general model of functional dependence covers problems with deviating arguments and integro-differential equations.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art6/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 291-310",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.291\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.291\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art6.pdf"
+  },
+  {
+    "title": "Comparison and oscillation theorems for singular Sturm-Liouville operators",
+    "authors": ["Monika Homa","Rostyslav Hryniv"],
+    "keywords": ["Sturm-Liouville","equation,","distributional","potential,","Sturm","comparison","and","oscillation","theorem,","Prufer","angle."],
+    "mathsubclass": "34B24, 34A36, 34B09, 34B19, 34L40",
+    "abstract": "We prove analogues of the classical Sturm comparison and oscillation theorems for Sturm-Liouville operators on a finite interval with real-valued distributional potentials.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art6/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 97-113",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.97\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.97\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art6.pdf"
+  },
+  {
+    "title": "On the hyperreflexivity of subspaces of Toeplitz operators on regions in the complex plane",
+    "authors": ["Wojciech Młocek","Marek Ptak"],
+    "keywords": ["hyperreflexivity,","Toeplitz","operator,","upper","half-plane,","simply","connected","region."],
+    "mathsubclass": "47L80, 47L05, 47L45",
+    "abstract": "The results of hyperreflexivity or 2-hyperreflexivity for subspaces of Toeplitz operators on the Hardy spaces on Jordan regions or upper half-plane are given.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art6/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 561-567",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.561\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.561\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art6.pdf"
+  },
+  {
+    "title": "Weak heteroclinic solutions and competition phenomena to anisotropic difference equations with variable exponents",
+    "authors": ["Aboudramane Guiro","Blaise Kone","Stanislas Ouaro"],
+    "keywords": ["anisotropic","difference","equations,","anisotropic","difference","equations,","heteroclinic","solutions,","discrete","Holder","type","inequality,","competition","phenomena."],
+    "mathsubclass": "47A75, 35B38, 35P30, 34L05, 34L30",
+    "abstract": "In this paper, we prove the existence of weak heteroclinic solutions for a family of anisotropic difference equations under competition phenomena between parameters.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art6/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 733-745",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.733\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.733\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art6.pdf"
+  },
+  {
     "title": "Contractive and optimal sets in Musielak-Orlicz spaces with a smoothness condition",
     "authors": ["Anna Denkowska"],
     "keywords": ["Musielak-Orlicz","sequence","spaces,","one-complemented","subspaces,","contractive","and","optimal","sets."],
@@ -2475,6 +3135,105 @@
     "pdf": "pdf/vol-44-no-3-2024/art7.pdf"
   },
   {
+    "title": "Generalized Levinson's inequality and exponential convexity",
+    "authors": ["Josip Pečarić","Marjan Praijak","Alfred Witkowski"],
+    "keywords": ["Levinson's","inequality,","exponential","convexity"],
+    "mathsubclass": "26D15",
+    "abstract": "We give a probabilistic version of Levinson's inequality under Mercer's assumption of equal variances for the family of 3-convex functions at a point. We also show that this is the largest family of continuous functions for which the inequality holds. New families of exponentially convex functions and related results are derived from the obtained inequality.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-3-2015/art7/",
+    "description": "Opuscula Math. 35, no. 3 (2015), 397-410",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.3.397\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.3.397\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-3-2015/art7.pdf"
+  },
+  {
+    "title": "A note on the existence of positive solutions for a class of singular fractional boundary value problems",
+    "authors": ["Xinan Hao","Lishan Liu","Yonghong Wu"],
+    "keywords": ["fractional","differential","equation,","singular","boundary","value","problem,","positive","solution,","fixed","point","theorem"],
+    "mathsubclass": "34A08, 34B10, 34B15, 34B16, 34B18",
+    "abstract": "In this paper, we study the existence of positive solutions for a class of singular fractional boundary value problems. By using a fixed point theorem on cones, we establish some new existence results. Our nonlinearity may be singular in both its time and space variables.",
+    "url": "/archive/opuscula_mathematica-vol.36-2016/vol-36-no-1-2016/art7/",
+    "description": "Opuscula Math. 36, no. 1 (2016), 119-128",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2016.36.1.119\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2016.36.1.119\u003c/a\u003e",
+    "pdf": "pdf/vol-36-no-1-2016/art7.pdf"
+  },
+  {
+    "title": "On the existence of solutions of the Cauchy problem for the nonlinear wave equation with small data in the Gevrey class",
+    "authors": ["Kunihiko Kajitani"],
+    "keywords": ["nonlinear","wave","equation,","Cauchy","problem,","Gevrey","class,","small","initial","data"],
+    "mathsubclass": "35L70, 35L15",
+    "abstract": "We consider the Cauchy problem for the nonlinear wave equation with small initial data. We prove that if the nonlinear term is of the derivative type, then the Cauchy problem has a unique solution in the Gevrey class.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art7/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 713-726",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.713\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.713\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art7.pdf"
+  },
+  {
+    "title": "ILU preconditioning based on the FAPINV algorithm",
+    "authors": ["Davod Khojasteh Salkuyeh","Amin Rafiei","Hadi Roohani"],
+    "keywords": ["system","of","linear","equations,","preconditioner,","FAPINV,","ILU","preconditioner,","H-matrix,","GMRES"],
+    "mathsubclass": "65F10, 65F50",
+    "abstract": "A technique for computing an ILU preconditioner based on the factored approximate inverse (FAPINV) algorithm is presented. We show that this algorithm is well-defined for H-matrices. Moreover, when used in conjunction with Krylov-subspace-based iterative solvers such as the GMRES algorithm, results in reliable solvers. Numerical experiments on some test matrices are given to show the efficiency of the new ILU preconditioner.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-2-2015/art7/",
+    "description": "Opuscula Math. 35, no. 2 (2015), 235-260",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.2.235\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.2.235\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-2-2015/art7.pdf"
+  },
+  {
+    "title": "On the existence of solutions of a second order discrete boundary value problem",
+    "authors": ["Johnny Henderson","Rodica Luca"],
+    "keywords": ["positive","solution,","system","of","difference","equations,","cone,","fixed","point","theorem"],
+    "mathsubclass": "39A10, 39A12",
+    "abstract": "We study the existence and multiplicity of positive solutions for the system of second order difference equations $\\Delta^2 u_{i-1} + f_i(n, u_n, v_n) = 0$, $n \\in \\{1, ..., N-1\\}$, $i = 1,2$, with the boundary conditions $u_0 = 0$, $u_N = 0$, $v_0 = 0$, $v_N = 0$, where $N \\in \\mathbb{N}$, $N \\geq 2$, and $f_1$, $f_2$ are sign-changing nonlinearities. The proof is based on the Guo-Krasnosel'skii fixed point theorem.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art7/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 103-118",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.103\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.103\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art7.pdf"
+  },
+  {
+    "title": "A totally magic cordial labeling of one-point union of n copies of a graph",
+    "authors": ["P. Jeyanthi","N. Angel Benseera"],
+    "keywords": ["totally","magic","cordial","labeling,","one-point","union","of","graphs."],
+    "mathsubclass": "05C78",
+    "abstract": "A graph $G$ is said to have a totally magic cordial (TMC) labeling with constant $C$ if there exists a mapping $f : V(G) \\cup E(G) \\rightarrow \\{0,1\\}$ such that $f(a) + f(b) + f(ab) = C(\\text{mod } 2)$ for all $ab \\in E(G)$ and $|n_f(0) - n_f(1)| \\leq 1$, where $n_f(t)$ ($t = 0,1$) is the sum of the number of vertices and edges with label $t$. In this paper, we establish the totally magic cordial labeling of one-point union of n-copies of cycles, complete graphs and wheels.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art7/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 115-122",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.115\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.115\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art7.pdf"
+  },
+  {
+    "title": "Difference problems generated by infinite systems of nonlinear parabolic functional differential equations with the Robin conditions",
+    "authors": ["Wojciech Czernous","Danuta Jaruszewska-Walczak"],
+    "keywords": ["nonlinear","parabolic","equations,","functional","difference","equations,","infinite","systems,","Volterra","type","operators,","nonlinear","estimates","of","the","Perron","type,","truncation","methods."],
+    "mathsubclass": "35R10, 35K51, 65M10",
+    "abstract": "We consider the classical solutions of mixed problems for infinite, countable systems of parabolic functional differential equations. Difference methods of two types are constructed and convergence theorems are proved. In the first type, we approximate the exact solutions by solutions of infinite difference systems. Methods of second type are truncation of the infinite difference system, so that the resulting difference problem is finite and practically solvable. The proof of stability is based on a comparison technique with nonlinear estimates of the Perron type for the given functions. The comparison system is infinite. Parabolic problems with deviated variables and integro-differential problems can be obtained from the general model by specifying the given operators.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art7/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 311-326",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.311\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.311\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art7.pdf"
+  },
+  {
+    "title": "Existence of three solutions for perturbed nonlinear difference equations",
+    "authors": ["Shapour Heidarkhani","Mohsen Khaleghi Moghadam"],
+    "keywords": ["nonlinear","difference","equations,","discrete","boundary","value","problem,","three","solutions,","critical","point","theory,","variational","methods."],
+    "mathsubclass": "39A05, 34B15",
+    "abstract": "Using critical point theory, we study the existence of at least three solutions for perturbed nonlinear difference equations with discrete boundary-value condition depending on two positive parameters.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art7/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 747-761",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.747\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.747\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art7.pdf"
+  },
+  {
+    "title": "Global solutions to the initial-boundary value problem for the quasilinear viscoelastic equation with a derivative nonlinearity",
+    "authors": ["Mitsuhiro Nakao"],
+    "keywords": ["global","solutions,","energy","decay,","quasilinear","wave","equation,","Kelvin-Voigt","dissipation,","derivative","nonlinearity."],
+    "mathsubclass": "35B35, 35B40, 35L70",
+    "abstract": "We prove the existence and uniqueness of a global decaying solution to the initial boundary value problem for the quasilinear wave equation with Kelvin-Voigt dissipation and a derivative nonlinearity. To derive the required estimates of the solutions we employ a 'loan' method and use a difference inequality on the energy.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art7/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 569-590",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.569\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.569\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art7.pdf"
+  },
+  {
     "title": "Boundary value problems for nonlinear fractional differential equations and inclusions with nonlocal and fractional integral boundary conditions",
     "authors": ["Sotiris K. Ntouyas"],
     "keywords": ["fractional","differential","equations,","fractional","differential","inclusions,","nonlocal","conditions,","fractional","integral","boundary","conditions,","existence,","contraction","principle,","nonlinear","contraction."],
@@ -2860,6 +3619,94 @@
     "pdf": "pdf/vol-44-no-3-2024/art8.pdf"
   },
   {
+    "title": "Hermite-Hadamard type inequalities for Wright-convex functions of several variables",
+    "authors": ["Dorota Śliwińska","Szymon Wasowicz"],
+    "keywords": ["convex","functions,","Wright-convex","functions,","strongly","Wright-convex","functions,","Hermite-Hadamard","inequality"],
+    "mathsubclass": "26B25, 26D15, 39B62, 65D32",
+    "abstract": "We present Hermite-Hadamard type inequalities for Wright-convex, strongly convex and strongly Wright-convex functions of several variables defined on simplices.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-3-2015/art8/",
+    "description": "Opuscula Math. 35, no. 3 (2015), 411-419",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.3.411\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.3.411\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-3-2015/art8.pdf"
+  },
+  {
+    "title": "On the Cauchy problem for non-effectively hyperbolic operators with triple characteristics",
+    "authors": ["Tatsuo Nishitani"],
+    "keywords": ["Cauchy","problem,","non-effectively","hyperbolic","operators,","triple","characteristics,","Gevrey","class"],
+    "mathsubclass": "35L30, 35L80",
+    "abstract": "We study the Cauchy problem for non-effectively hyperbolic operators with triple characteristics. We prove that the Cauchy problem is well-posed in the Gevrey class of order \\( s \u003c 3 \\) if the Hamilton map has a non-zero real eigenvalue at the triple characteristic points.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art8/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 727-742",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.727\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.727\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art8.pdf"
+  },
+  {
+    "title": "Steering projections in von Neumann algebras",
+    "authors": ["Adam Wegert"],
+    "keywords": ["Murray-von","Neumann","order,","central","projection,","steering","projection"],
+    "mathsubclass": "46L10",
+    "abstract": "A steering projection of an arbitrary von Neumann algebra is introduced. It is shown that a steering projection always exists and is unique (up to Murray-von Neumann equivalence). A general decomposition of arbitrary projections with respect to a steering projection is established.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-2-2015/art8/",
+    "description": "Opuscula Math. 35, no. 2 (2015), 251-271",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.2.251\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.2.251\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-2-2015/art8.pdf"
+  },
+  {
+    "title": "On the existence of positive solutions for a class of singular fractional boundary value problems",
+    "authors": ["Chen Yang","Weigao Ge"],
+    "keywords": ["fractional","differential","equation,","singular","boundary","value","problem,","positive","solution,","fixed","point","theorem"],
+    "mathsubclass": "34A08, 34B15, 34B16, 34B18",
+    "abstract": "In this paper, we are concerned with the existence of positive solutions for a class of singular fractional boundary value problems. By using the fixed point theorem on cones, we establish some results on the existence of positive solutions.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art8/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 119-131",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.119\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.119\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art8.pdf"
+  },
+  {
+    "title": "Global convergence of successive approximations of the Darboux problem for partial functional differential equations with infinite delay",
+    "authors": ["Tomasz Człapiński"],
+    "keywords": ["successive","approximations,","Darboux","problem,","infinite","delay."],
+    "mathsubclass": "35R10",
+    "abstract": "We consider the Darboux problem for the hyperbolic partial functional differential equation with infinite delay. We deal with generalized (in the \"almost everywhere\" sense) solutions of this problem. We prove a theorem on the global convergence of successive approximations to a unique solution of the Darboux problem.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art8/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 327-338",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.327\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.327\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art8.pdf"
+  },
+  {
+    "title": "On Gevrey orders of formal power series solutions to the third and fifth Painlevé equations near infinity",
+    "authors": ["Anastasia V. Parusnikova"],
+    "keywords": ["Painlevé","equations,","Newton","polygon,","asymptotic","expansions,","Gevrey","orders."],
+    "mathsubclass": "34M25, 34M55",
+    "abstract": "The question under consideration is Gevrey summability of formal power series solutions to the third and fifth Painlevé equations near infinity. We consider the fifth Painlevé equation in two cases: when \\( \\alpha \\beta \\gamma \\delta \\neq 0 \\) and when \\( \\alpha \\beta \\gamma \\neq 0 \\), \\( \\delta = 0 \\) and the third Painlevé equation when all the parameters of the equation are not equal to zero. In the paper we prove Gevrey summability of the formal solutions to the fifth Painlevé equation and to the third Painlevé equation, respectively.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art8/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 591-599",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.591\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.591\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art8.pdf"
+  },
+  {
+    "title": "On the dimension of Archimedean solids",
+    "authors": ["Tomáš Madaras","Pavol Široczki"],
+    "keywords": ["Archimedean","solid,","unit-distance","graph,","dimension","of","a","graph."],
+    "mathsubclass": "05C10",
+    "abstract": "We study the dimension of graphs of the Archimedean solids. For most of these graphs we find the exact value of their dimension by finding unit-distance embeddings in the euclidean plane or by proving that such an embedding is not possible.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art8/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 123-138",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.123\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.123\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art8.pdf"
+  },
+  {
+    "title": "Optimization of a fractional Mayer problem - existence of solutions, maximum principle, gradient methods",
+    "authors": ["Dariusz Idczak","Stanislaw Walczak"],
+    "keywords": ["fractional","Riemann-Liouville","derivative,","Mayer","problem,","existence","of","an","optimal","solution,","maximum","principle,","gradient","method."],
+    "mathsubclass": "26A33, 49J15, 49K15, 49M37",
+    "abstract": "In the paper, we study a linear-quadratic optimal control problem of Mayer type given by a fractional control system. First, we prove a theorem on the existence of a solution to such a problem. Next, using the local implicit function theorem, we derive a formula for the gradient of a cost functional under constraints given by a control system and prove a maximum principle in the case of a control constraint set. The formula for the gradient is used to implement the gradient methods for the problem under consideration.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art8/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 763-775",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.763\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.763\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art8.pdf"
+  },
+  {
     "title": "A note on bounded harmonic functions over homogeneous trees",
     "authors": ["Francisco Javier González Vieli"],
     "keywords": ["bounded","harmonic","function,","homogeneous","tree."],
@@ -3176,7 +4023,7 @@
     "url": "/archive/opuscula_mathematica-vol.24-2004/vol-24-no-2-2004/art8/",
     "description": "Opuscula Math. 24, no. 2 (2004), 231-234",
     "descriptionlink": null,
-    "pdf": "pdf/vol-24-no-2-2004/art8.pdf"
+    "pdf": "art8.pdf"
   },
   {
     "title": "Edge decompositions of multigraphs into multi-2-paths",
@@ -3199,6 +4046,72 @@
     "description": "Opuscula Math. 23, (2003), 81-94",
     "descriptionlink": null,
     "pdf": "pdf/vol-23-no-1-2003/art8.pdf"
+  },
+  {
+    "title": "On the Cauchy problem for non-effectively hyperbolic operators with double characteristics",
+    "authors": ["Vesselin M. Petkov"],
+    "keywords": ["Cauchy","problem,","non-effectively","hyperbolic","operators,","double","characteristics,","Gevrey","class"],
+    "mathsubclass": "35L30, 35L80",
+    "abstract": "We study the Cauchy problem for non-effectively hyperbolic operators with double characteristics. We prove that the Cauchy problem is well-posed in the Gevrey class of order \\( s \u003c 2 \\) if the Hamilton map has a non-zero real eigenvalue at the double characteristic points.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art9/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 743-758",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.743\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.743\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art9.pdf"
+  },
+  {
+    "title": "On the existence of solutions for a class of fractional differential inclusions with nonlocal conditions",
+    "authors": ["Bashir Ahmad","Sotiris K. Ntouyas","Ahmed Alsaedi"],
+    "keywords": ["fractional","differential","inclusion,","nonlocal","condition,","fixed","point","theorem,","existence"],
+    "mathsubclass": "34A60, 34B15",
+    "abstract": "In this paper, we study the existence of solutions for a class of fractional differential inclusions with nonlocal conditions. By using suitable fixed point theorems, we establish some existence results for the problem at hand.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-1-2015/art9/",
+    "description": "Opuscula Math. 35, no. 1 (2015), 133-143",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.1.133\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.1.133\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-1-2015/art9.pdf"
+  },
+  {
+    "title": "About sign-constancy of Green's functions for impulsive second order delay equations",
+    "authors": ["Alexander Domoshnitsky","Guy Landsman","Shlomo Yanetz"],
+    "keywords": ["impulsive","equations,","Green's","functions,","positivity/negativity","of","Green's","functions,","boundary","value","problem,","second","order."],
+    "mathsubclass": "34K10, 34B37, 34A40, 34A37, 34K48",
+    "abstract": "We consider the following second order differential equation with delay\r\n\\[\\begin{cases}\r\n(Lx)(t) = x''(t) + \\sum_{j=1}^p b_j(t)x(t - \\theta_j(t)) = f(t), \u0026 t \\in [0,\\omega], \\\\\r\nx(t_j) = \\gamma_jx(t_j - 0), \u0026 j = 1, 2, \\ldots, r.\r\n\\end{cases}\\]\r\nIn this paper we find necessary and sufficient conditions of positivity of Green's functions for this impulsive equation coupled with one or two-point boundary conditions in the form of theorems about differential inequalities. By choosing the test function in these theorems, we obtain simple sufficient conditions. For example, the inequality \\(\\sum_{i=1}^p b_i(t) (\\frac{1}{4} + r) \u003c \\frac{3}{2}\\) is a basic one, implying negativity of Green's function of two-point problem for this impulsive equation in the case \\(0 \u003c \\gamma_i \\leq 1\\), \\(0 \u003c \\delta_i \\leq 1\\) for \\(i = 1, \\ldots, p\\).\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art9/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 339-362",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.339\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.339\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art9.pdf"
+  },
+  {
+    "title": "Asymptotics of the discrete spectrum for complex Jacobi matrices",
+    "authors": ["Maria Malejki"],
+    "keywords": ["tridiagonal","matrix,","complex","Jacobi","matrix,","discrete","spectrum,","eigenvalue,","asymptotic","formula,","unbounded","operator,","Riesz","projection."],
+    "mathsubclass": "47B36, 47B37, 47B06, 47A75, 15A18",
+    "abstract": "The spectral properties and the asymptotic behaviour of the discrete spectrum for a special class of infinite tridiagonal matrices are given. We derive the asymptotic formulae for eigenvalues of unbounded complex Jacobi matrices acting in $l^2(\\mathbb{N})$.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art9/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 139-160",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.139\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.139\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art9.pdf"
+  },
+  {
+    "title": "On some subclasses of the family of Darboux Baire 1 functions",
+    "authors": ["Gertruda Ivanova","Elżbieta Wagner-Bojakowska"],
+    "keywords": ["Darboux","property,","strong","Światkowski","property,","Baire","property,","I-approximate","continuity,","quasi-continuity."],
+    "mathsubclass": "26A15, 54C08",
+    "abstract": "We introduce a subclass of the family of Darboux Baire 1 functions $f : \\mathbb{R} \\to \\mathbb{R}$ modifying the Darboux property analogously as it was done by Z. Grande in [On a subclass of the family of Darboux functions, Colloq. Math. 17 (2009), 95-104], and replacing approximate continuity with $\\mathcal{I}$-approximate continuity, i.e. continuity with respect to the $\\mathcal{I}$-density topology. We prove that the family of all Darboux quasi-continuous functions from the first Baire class is a strongly porous set in the space $D\\mathfrak{F}_1$ of Darboux Baire 1 functions, equipped with the supremum metric.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art9/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 777-788",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.777\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.777\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art9.pdf"
+  },
+  {
+    "title": "Positivity preserving results for a biharmonic equation under Dirichlet boundary conditions",
+    "authors": ["Hanen Ben Omrane","Saima Khenissy"],
+    "keywords": ["biharmonic","equation,","positivity","preserving,","Dirichlet","problem."],
+    "mathsubclass": "35J40, 31B30",
+    "abstract": "We prove a dichotomy result giving the positivity preserving property for a biharmonic equation with Dirichlet boundary conditions arising in MEMS models. We adapt some ideas in [H.-Ch. Grunau, G. Sweers, Positivity for equations involving polyharmonic operators with Dirichlet boundary conditions, Math. Ann. 307 (1997), 589-626].\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art9/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 601-608",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.601\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.601\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art9.pdf"
   },
   {
     "title": "Generating the exponentially stable C₀-semigroup in a nonhomogeneous string equation with damping at the end",
@@ -3498,6 +4411,61 @@
     "pdf": "pdf/vol-23-no-1-2003/art9.pdf"
   },
   {
+    "title": "On the Cauchy problem for non-effectively hyperbolic operators with multiple characteristics",
+    "authors": ["Michael Reissig"],
+    "keywords": ["Cauchy","problem,","non-effectively","hyperbolic","operators,","multiple","characteristics,","Gevrey","class"],
+    "mathsubclass": "35L30, 35L80",
+    "abstract": "We study the Cauchy problem for non-effectively hyperbolic operators with multiple characteristics. We prove that the Cauchy problem is well-posed in the Gevrey class of order \\( s \u003c k \\) if the Hamilton map has a non-zero real eigenvalue at the multiple characteristic points of order \\( k \\).",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art10/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 759-774",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.759\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.759\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art10.pdf"
+  },
+  {
+    "title": "Asymptotically isometric copies of $c_0$ in Musielak-Orlicz spaces",
+    "authors": ["Agata Narloch","Lucian Szymaszkiewicz"],
+    "keywords": ["Musielak-Orlicz","space,","Luxemburg","norm,","condition","$\\Delta_2$,","asymptotically","isometric","copy","of","$c_0$."],
+    "mathsubclass": "46E30",
+    "abstract": "Criteria in order that a Musielak-Orlicz function space $L^*$ as well as Musielak-Orlicz sequence space $l^*$ contains an asymptotically isometric copy of $c_0$ are given. These results extend some results of [Y.A. Cui, H. Hudzik, G. Lewicki, Order asymptotically isometric copies of $c_0$ in the subspaces of order continuous elements in Orlicz spaces, Journal of Convex Analysis 21 (2014)] to Musielak-Orlicz spaces.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art10/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 161-169",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.161\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.161\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art10.pdf"
+  },
+  {
+    "title": "Oscillatory properties of solutions of the fourth order difference equations with quasidifferences",
+    "authors": ["Robert Jankowski","Ewa Schmeidel","Joanna Zonenberg"],
+    "keywords": ["fourth-order","difference","equation,","neutral","type,","quickly","oscillatory","solutions,","almost","oscillatory."],
+    "mathsubclass": "39A21, 39A10",
+    "abstract": "A class of fourth-order neutral type difference equations with quasidifferences and deviating arguments is considered. Our approach is based on studying the considered equation as a system of a four-dimensional difference system. The sufficient conditions under which the considered equation has no quickly oscillatory solutions are given. Finally, the sufficient conditions under which the equation is almost oscillatory are presented.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art10/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 789-797",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.789\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.789\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art10.pdf"
+  },
+  {
+    "title": "Signed star \\((k,k)\\)-domatic number of a graph",
+    "authors": ["S. M. Sheikholeslami","L. Volkmann"],
+    "keywords": ["signed","star","\\((k,k)\\)-domatic","number,","signed","star","domatic","number,","signed","star","\\(k\\)-dominating","function,","signed","star","dominating","function,","signed","star","\\(k\\)-domination","number,","signed","star","domination","number,","regular","graphs."],
+    "mathsubclass": "05C69",
+    "abstract": "Let \\(G\\) be a simple graph without isolated vertices with vertex set \\(V(G)\\) and edge set \\(E(G)\\) and let \\(k\\) be a positive integer. A function \\(f:E(G)\\longrightarrow\\{-1,1\\}\\) is said to be a signed star \\(k\\)-dominating function on \\(G\\) if \\(\\sum_{e\\in E(G)}f(e)\\geq k\\) for every vertex \\(v\\) of \\(G\\), where \\(E(v)=\\{uv\\in E(G)\\mid u\\in N(v)\\}\\). A set \\(\\{f_1,f_2,\\ldots,f_k\\}\\) of signed star \\(k\\)-dominating functions on \\(G\\) with the property that \\(\\sum_{i=1}^{k}f_i(e)\\leq k\\) for each \\(e\\in E(G)\\), is called a signed star \\((k,k)\\)-dominating family (of functions) on \\(G\\). The maximum number of functions in a signed star \\((k,k)\\)-dominating family on \\(G\\) is the signed star \\((k,k)\\)-domatic number of \\(G\\), denoted by \\(d^{(k,k)}_{SS}(G)\\). In this paper we study properties of the signed star \\((k,k)\\)-domatic number \\(d^{(k,k)}_{SS}(G)\\). In particular, we present bounds on \\(d^{(k,k)}_{SS}(G)\\), and we determine the signed \\((k,k)\\)-domatic number of some regular graphs. Some of our results extend these given by Atapour, Sheikholeslami, Ghameslou and Volkmann [Signed star domatic number of a graph, Discrete Appl. Math. 158 (2010), 213-218] for the signed star domatic number.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art10/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 609-620",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.609\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.609\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art10.pdf"
+  },
+  {
+    "title": "Uniqueness and parameter dependence of positive doubly periodic solutions of nonlinear telegraph equations",
+    "authors": ["John R. Graef","Lingju Kong","Min Wang"],
+    "keywords": ["telegraph","equation,","doubly","periodic","solution,","Green's","function."],
+    "mathsubclass": "35B10, 35L70",
+    "abstract": "The authors study a type of second order nonlinear telegraph equation. The existence and uniqueness of positive doubly periodic solutions are discussed. The parametric dependence of the solutions is also investigated. Two examples are given as applications of the results.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art10/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 363-373",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.363\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.363\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art10.pdf"
+  },
+  {
     "title": "A new method for solving ill-conditioned linear systems",
     "authors": ["Fazlollah Soleymani"],
     "keywords": ["matrix","inversion,","linear","systems,","Hilbert","matrix,","ill-conditioned,","approximate","inverse."],
@@ -3751,6 +4719,61 @@
     "pdf": "pdf/vol-23-no-1-2003/art1.pdf"
   },
   {
+    "title": "On the Cauchy problem for non-effectively hyperbolic operators with irregular singularities",
+    "authors": ["Hidetoshi Tahara"],
+    "keywords": ["Cauchy","problem,","non-effectively","hyperbolic","operators,","irregular","singularities,","Gevrey","class"],
+    "mathsubclass": "35L30, 35L80",
+    "abstract": "We study the Cauchy problem for non-effectively hyperbolic operators with irregular singularities. We prove that the Cauchy problem is well-posed in the Gevrey class of order \\( s \u003c 2 \\) if the Hamilton map has a non-zero real eigenvalue at the irregular singular points.",
+    "url": "/archive/opuscula_mathematica-vol.35-2015/vol-35-no-5-2015/art11/",
+    "description": "Opuscula Math. 35, no. 5 (2015), 775-790",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2015.35.5.775\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2015.35.5.775\u003c/a\u003e",
+    "pdf": "pdf/vol-35-no-5-2015/art11.pdf"
+  },
+  {
+    "title": "A Neumann boundary value problem for a class of gradient systems",
+    "authors": ["Wen-Wu Pan","Lin Li"],
+    "keywords": ["Neumann","problems,","weak","solutions,","critical","points,","$(p_1,\\ldots,p_n)$-Laplacian."],
+    "mathsubclass": "35J65, 35J60, 47J30, 58E05",
+    "abstract": "In this paper we study a class of two-point boundary value systems. Using very recent critical points theorems, we establish the existence of one non-trivial solution and infinitely many solutions of this problem, respectively.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art11/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 171-181",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.171\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.171\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art11.pdf"
+  },
+  {
+    "title": "Existence and multiplicity results for nonlinear problems involving the p(x)-Laplace operator",
+    "authors": ["Najib Tsouli","Omar Darhouche"],
+    "keywords": ["critical","points,","variational","method,","\\(p(x)\\)-Laplacian,","generalized","Lebesgue-Sobolev","spaces."],
+    "mathsubclass": "35B38, 35D05, 35J20, 35J60, 35J66",
+    "abstract": "In this paper we study the following nonlinear boundary-value problem\r\n\r\n\\[-\\Delta_{p(x)}u = \\lambda f(x, u) \\quad \\text{in } \\Omega,\\]\r\n\r\n\\[\\| \\nabla u \\|^{p(x)-2} + \\frac{\\partial u}{\\partial \\nu} + \\beta(x) \\| u \\|^{p(x)-2} u = \\mu g(x, u) \\quad \\text{on } \\partial \\Omega,\\]\r\n\r\nwhere \\(\\Omega \\subset \\mathbb{R}^N\\) is a bounded domain with smooth boundary \\(\\partial \\Omega\\), \\(\\frac{\\partial u}{\\partial \\nu}\\) is the outer unit normal derivative on \\(\\partial \\Omega\\), \\(\\lambda, \\mu\\) are two real numbers such that \\(\\lambda^2 + \\mu^2 \\neq 0\\), \\(p\\) is a continuous function on \\(\\overline{\\Omega}\\) with \\(\\inf_{\\epsilon \\in \\overline{\\Omega}} p(x) \u003e 1\\), \\(\\beta \\in L^{\\infty}(\\partial \\Omega)\\) with \\(\\beta^{-1} := \\inf_{\\epsilon \\in \\partial \\Omega} \\beta(x) \u003e 0\\) and \\(f : \\Omega \\times \\mathbb{R} \\to \\mathbb{R}\\), \\(g : \\partial \\Omega \\times \\mathbb{R} \\to \\mathbb{R}\\) are continuous functions. Under appropriate assumptions on \\(f\\) and \\(g\\), we obtain the existence and multiplicity of solutions using the variational method. The positive solution of the problem is also considered.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art11/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 621-638",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.621\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.621\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art11.pdf"
+  },
+  {
+    "title": "On ∞-entropy points in real analysis",
+    "authors": ["Ewa Korczak-Kubiak","Anna Loranty","Ryszard J. Pawlak"],
+    "keywords": ["topological","entropy,","Darboux","function,","almost","continuity,","Baire","one","function,","approximately","continuous","function,","pseudo","fixed","point,","topology","of","uniform","convergence,","compact-open","topology,","∞-entropy","point."],
+    "mathsubclass": "26A18, 37B40, 26A21, 54H25, 54C08, 54H20",
+    "abstract": "We will consider ∞-entropy points in the context of the possibilities of approximation mappings by the functions having ∞-entropy points and belonging to essential (from the point of view of real analysis theory) classes of functions: almost continuous, Darboux Baire one and approximately continuous functions.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art11/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 799-812",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.799\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.799\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art11.pdf"
+  },
+  {
+    "title": "Stability of finite difference schemes for generalized von Foerster equations with renewal",
+    "authors": ["Henryk Leszczynski","Piotr Zwierkowski"],
+    "keywords": ["structured","model,","renewal,","finite","differences,","stability."],
+    "mathsubclass": "65M06, 65M12, 92D25",
+    "abstract": "We consider a von Foerster-type equation describing the dynamics of a population with the production of offsprings given by the renewal condition. We construct a finite difference scheme for this problem and give sufficient conditions for its stability with respect to \\( l^1 \\) and \\( l^\\infty \\) norms.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art11/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 375-386",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.375\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.375\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art11.pdf"
+  },
+  {
     "title": "Planar nonautonomous polynomial equations V. The Abel equation",
     "authors": ["Pawel Wilczyński"],
     "keywords": ["periodic","orbits,","polynomial","equations."],
@@ -3971,6 +4994,50 @@
     "pdf": "pdf/vol-23-no-1-2003/art11.pdf"
   },
   {
+    "title": "Existence results for random fractional differential equations",
+    "authors": ["Vasile Lupulescu","Donal O Regan","Ghaus ur Rahman"],
+    "keywords": ["random","fractional","differential","equations,","fractional","integral,","Caputo","fractional","derivative,","existence."],
+    "mathsubclass": "26A33, 47H40, 60H25",
+    "abstract": "In this paper, an existence result for a random fractional differential equation is established under a Caratheodory condition. Existence results for extremal random solutions are also proved. Finally, an existence and uniqueness result is given.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art12/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 813-825",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.813\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.813\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art12.pdf"
+  },
+  {
+    "title": "Fixed point theorems for a semigroup of total asymptotically nonexpansive mappings in uniformly convex Banach spaces",
+    "authors": ["Suthep Suantai","Withun Phuengrattana"],
+    "keywords": ["fixed","point,","semitopological","semigroup,","reversible","semigroup,","total","asymptotically","nonexpansive","semigroup,","uniformly","convex","Banach","spaces."],
+    "mathsubclass": "47H09, 47H10",
+    "abstract": "In this paper, we provide existence and convergence theorems of common fixed points for left (or right) reversible semitopological semigroups of total asymptotically nonexpansive mappings in uniformly convex Banach spaces. The results presented in this paper extend and improve some recent results announced by other authors.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-1-2014/art12/",
+    "description": "Opuscula Math. 34, no. 1 (2014), 183-197",
+    "descriptionlink": "\u003ca href=\"https://doi.org/10.7494/OpMath.2014.34.1.183\" target=\"_blank\"\u003ehttps://doi.org/10.7494/OpMath.2014.34.1.183\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-1-2014/art12.pdf"
+  },
+  {
+    "title": "On the stability of first order impulsive evolution equations",
+    "authors": ["JinRong Wang","Michal Fečkan","Yong Zhou"],
+    "keywords": ["first","order,","impulsive","evolution","equations,","Ulam-Hyers-Rassias","stability."],
+    "mathsubclass": "34G20, 34D10, 45N05",
+    "abstract": "In this paper, concepts of Ulam-Hyers stability, generalized Ulam-Hyers stability, Ulam-Hyers-Rassias stability and generalized Ulam-Hyers-Rassias stability for impulsive evolution equations are raised. Ulam-Hyers-Rassias stability results on a compact interval and an unbounded interval are presented by using an impulsive integral inequality of the Gronwall type. Two examples are also provided to illustrate our results. Finally, some extensions of the Ulam-Hyers-Rassias stability for the case with infinite impulses are given.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-3-2014/art12/",
+    "description": "Opuscula Math. 34, no. 3 (2014), 639-657",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.3.639\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.3.639\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-3-2014/art12.pdf"
+  },
+  {
+    "title": "Solving boundary value problems in the open source software R: package bvpSolve",
+    "authors": ["Francesca Mazzia","Jeff R. Cash","Karline Soetaert"],
+    "keywords": ["ordinary","differential","equations,","boundary","value","problems,","singular","perturbation","problems,","test","problems,","R,","Fortran."],
+    "mathsubclass": "65L04, 65L05, 65L80",
+    "abstract": "The R package bvpSolve for the numerical solution of Boundary Value Problems (BVPs) is presented. This package is free software which is distributed under the GNU General Public License, as part of the R open source software project. It includes some well known codes to solve boundary value problems of ordinary differential equations (ODEs) and differential algebraic equations (DAEs). In addition to the packages already available for solving initial value problems, the new package now allows non expert users to efficiently solve boundary value problems in the problem solving environment R.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art12/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 387-403",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.387\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.387\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art12.pdf"
+  },
+  {
     "title": "Existence of critical elliptic systems with boundary singularities",
     "authors": ["Jianfu Yang","Yimin Zhou"],
     "keywords": ["existence,","compactness,","critical","Hardy-Sobolev","exponent,","nonlinear","system."],
@@ -4158,6 +5225,28 @@
     "pdf": "pdf/vol-24-no-1-2004/art12.pdf"
   },
   {
+    "title": "Difference functional inequalities and applications",
+    "authors": ["Anna Szafrańska"],
+    "keywords": ["initial","boundary","value","problems,","difference","functional","inequalities,","difference","methods,","stability","and","convergence,","interpolating","operators,","error","estimates."],
+    "mathsubclass": "35R10, 65M12, 65M15",
+    "abstract": "The paper deals with the difference inequalities generated by initial boundary value problems for hyperbolic nonlinear differential functional systems. We apply this result to investigate the stability of constructed difference schemes. The proof of the convergence of the difference method is based on the comparison technique, and the result for difference functional inequalities is used. Numerical examples are presented.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art13/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 405-423",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.405\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.405\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art13.pdf"
+  },
+  {
+    "title": "Necessary and sufficient conditions for a Pareto optimal allocation in a discontinuous Gale economic model",
+    "authors": ["Anna Michalak","Marcin Studniarski"],
+    "keywords": ["Gale","model,","discontinuous","functions,","generalized","directional","derivatives,","higher-order","conditions,","Pareto","optimality."],
+    "mathsubclass": "91B50, 90C29, 49J52",
+    "abstract": "In this paper we examine the concept of Pareto optimality in a simplified Gale economic model without assuming continuity of the utility functions. We apply some existing results on higher-order optimality conditions to get necessary and sufficient conditions for a locally Pareto optimal allocation.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art13/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 827-835",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.827\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.827\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art13.pdf"
+  },
+  {
     "title": "Existence and asymptotic behavior of positive continuous solutions for a nonlinear elliptic system in the half space",
     "authors": ["H. Yebdri","S. Bachir"],
     "keywords": ["nonlinear","elliptic","system,","positive","solution,","existence,","asymptotic","behavior,","Karamata","class,","half","space."],
@@ -4279,6 +5368,28 @@
     "pdf": "pdf/vol-24-no-1-2004/art13.pdf"
   },
   {
+    "title": "On the existence of solutions for a class of nonlinear fractional differential equations",
+    "authors": ["Mouffak Benchohra","Johnny Henderson","Salemah M. Said"],
+    "keywords": ["fractional","differential","equations,","Caputo","derivative,","boundary","value","problem,","existence,","fixed","point."],
+    "mathsubclass": "34A08, 34B15",
+    "abstract": "In this paper, we establish sufficient conditions for the existence of solutions for a class of boundary value problems for fractional differential equations involving the Caputo fractional derivative. Our results are based on the nonlinear alternative of Leray-Schauder type and the Banach contraction principle.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art14/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 837-847",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.837\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.837\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art14.pdf"
+  },
+  {
+    "title": "On the Tonelli method for the degenerate parabolic Cauchy problem with functional argument",
+    "authors": ["Krzysztof A. Topolski"],
+    "keywords": ["viscosity","solutions,","parabolic","equation,","differential-functional","equation."],
+    "mathsubclass": "35A01, 35K15, 35K60",
+    "abstract": "The degenerate parabolic Cauchy problem is considered. A functional argument in the equation is of the Hale type. As a limit of piecewise classical solutions we obtain a viscosity solution of the main problem. Presented method is an adaptation of Tonelli's constructive method to the partial differential-functional equation. It is also shown that this approach can be improved by the vanishing viscosity method and regularisation process.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art14/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 425-441",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.425\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.425\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art14.pdf"
+  },
+  {
     "title": "A characterization of convex \\(\\varphi\\)-functions",
     "authors": ["Bartosz Micherda"],
     "keywords": ["inequalities,","modulars,","Orlicz-Musielak","spaces,","convexity,","isotonicity,","antiprojections."],
@@ -4345,6 +5456,28 @@
     "pdf": "pdf/vol-25-no-2-2005/art14.pdf"
   },
   {
+    "title": "Method of lines for parabolic stochastic functional partial differential equations",
+    "authors": ["Maria Ziemlańska"],
+    "keywords": ["stochastic","partial","differential","equations,","stability","of","the","method","of","lines,","white","noise,","Volterra","stochastic","equations."],
+    "mathsubclass": "35R80, 49M25",
+    "abstract": "We approximate parabolic stochastic functional differential equations substituting the derivatives in the space variable by finite differences. We prove the stability of the method of lines corresponding to a parabolic SPDE driven by Brownian motion.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-2-2014/art15/",
+    "description": "Opuscula Math. 34, no. 2 (2014), 443-469",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.2.443\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.2.443\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-2-2014/art15.pdf"
+  },
+  {
+    "title": "On the existence of solutions for a class of nonlinear fractional differential equations with integral boundary conditions",
+    "authors": ["Mouffak Benchohra","Johnny Henderson","Salemah M. Said"],
+    "keywords": ["fractional","differential","equations,","Caputo","derivative,","integral","boundary","conditions,","existence,","fixed","point."],
+    "mathsubclass": "34A08, 34B15",
+    "abstract": "In this paper, we study the existence of solutions for a class of boundary value problems for fractional differential equations with integral boundary conditions. The main tools employed are the nonlinear alternative of Leray-Schauder type and the Banach contraction principle.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art15/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 849-859",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.849\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.849\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art15.pdf"
+  },
+  {
     "title": "Analysis of integrodifferential control system with pulse-width modulated sampler on Banach spaces",
     "authors": ["JinRong Wang"],
     "keywords": ["integrodifferential","system,","pulse-width","modulated","sampler,","steady-state","control,","steady-state","stability."],
@@ -4387,6 +5520,17 @@
     "description": "Opuscula Math. 25, no. 2 (2005), 325-332",
     "descriptionlink": null,
     "pdf": "pdf/vol-25-no-2-2005/art15.pdf"
+  },
+  {
+    "title": "On the existence of solutions for a class of nonlinear fractional differential equations with nonlocal boundary conditions",
+    "authors": ["Mouffak Benchohra","Johnny Henderson","Salemah M. Said"],
+    "keywords": ["fractional","differential","equations,","Caputo","derivative,","nonlocal","boundary","conditions,","existence,","fixed","point."],
+    "mathsubclass": "34A08, 34B15",
+    "abstract": "In this paper, we study the existence of solutions for a class of boundary value problems for fractional differential equations with nonlocal boundary conditions. The main tools employed are the nonlinear alternative of Leray-Schauder type and the Banach contraction principle.\r\n",
+    "url": "/archive/opuscula_mathematica-vol.34-2014/vol-34-no-4-2014/art16/",
+    "description": "Opuscula Math. 34, no. 4 (2014), 861-871",
+    "descriptionlink": "\u003ca href=\"http://dx.doi.org/10.7494/OpMath.2014.34.4.861\" target=\"_blank\"\u003ehttp://dx.doi.org/10.7494/OpMath.2014.34.4.861\u003c/a\u003e",
+    "pdf": "pdf/vol-34-no-4-2014/art16.pdf"
   },
   {
     "title": "Existence of periodic solutions for totally nonlinear neutral differential equations with functional delay",
